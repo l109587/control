@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": [
+    {
+      "enable": "Y",
+      "name": "测试1",
+      "device_id": "220409012001",
+      "type": "检测器",
+      "certsn": "010FB0FFAD9B7B9FB587245C3EECC0BDC58D8929",
+      "onstate": 1,
+      "regstate": 1,
+      "authstate": 1,
+      "model": "3000",
+      "soft_version": "xxx",
+      "zone": "",
+      "zone_id": 111,
+      "memo": "xxx",
+      "gpZoneIDPath": "1.2.3",
+      "gpZonePath": "北京/天津",
+      "cpu_info": [
+        {
+          "physical_id": 0,
+          "core": 4,
+          "clock": 1.8
+        },
+        {
+          "physical_id": 1,
+          "core": 2,
+          "clock": 2
+        }
+      ],
+      "disk_info": [
+        {
+          "size": 500,
+          "serial": "ST100NM001"
+        },
+        {
+          "size": 160,
+          "serial": "ST100NM002"
+        }
+      ],
+      "interface": [
+        {
+          "ip": "192.168.11.100",
+          "netmask": 24,
+          "gateway": "192.168.11.1",
+          "manage": true
+        },
+        {
+          "ip": "192.168.88.100",
+          "netmask": 24,
+          "gateway": "192.168.88.1",
+          "manage": false
+        }
+      ],
+      "organs": "信息中心",
+      "address": "北京海淀复兴路 128号",
+      "address_code": "10000",
+      "contact": [
+        {
+          "name": "张三",
+          "position": "处长",
+          "email": "test@163.com",
+          "phone": "13232*****"
+        },
+        {
+          "name": "张四",
+          "position": "主任",
+          "email": "test@163.com",
+          "phone": "13232*****"
+        }
+      ]
+    }
+  ]
+}

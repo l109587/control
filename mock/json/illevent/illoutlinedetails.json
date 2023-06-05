@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "id": "1",
+      "findTime": "2022-07-07 12:00:03",
+      "inIp": "192.168.12.12/24",
+      "area": "高新区",
+      "devMac": "19:21:68:12:12:24",
+      "outIp": "192.168.12.12",
+      "region": "陕西",
+      "city": "西安市",
+      "isp": "雁塔区",
+      "operator": "联通",
+      "findType": "1",
+      "flag": "12345678",
+      "type": "HTTP-SERV",
+      "serverName": "www.baidu.com",
+      "folding": "Y"
+    }
+  ]
+}

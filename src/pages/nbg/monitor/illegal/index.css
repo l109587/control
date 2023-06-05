@@ -1,0 +1,128 @@
+.spanword {
+  position: relative;
+  left: 1%;
+  top: -10px;
+  color: #999;
+  font-size: 12px;
+}
+.spanopen {
+  position: absolute;
+  left: 45.5%;
+  top: 5.3%;
+  color: #999;
+  font-size: 12px;
+}
+.alertTitle {
+  margin: 0 5% 0 210px;
+}
+.violform {
+  width: 800px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+.timeLabel {
+  border: 1px solid #f3efefe8;
+  width: 42px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  padding: 0;
+}
+.backgroundbox {
+  background-color: #FEFEFE;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  overflow-y: auto;
+}
+.tablelistbottom .ant-form-item {
+  margin: 0 !important;
+}
+.tablelistbottom .ant-table.ant-table-middle .ant-table-thead > tr > th,
+.tablelistbottom .ant-table.ant-table-middle .ant-table-tbody > tr > td {
+  padding: 6px 8px;
+}
+.violform .ant-form-item-control > div div:nth-child(2) {
+  margin-left: 0 !important;
+}
+.tablelistbottom .ant-space-align-center {
+  gap: 16px !important;
+}
+.ant-tabs-tabpane > .ant-pro-card > .ant-pro-card-body {
+  padding: 0 !important;
+}
+.ant-form {
+  position: relative;
+}
+.ant-table-thead tr th {
+  background: #f2f2f2;
+}
+.ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled) {
+  z-index: 1;
+  color: #fff !important;
+  background-color: #1890ff !important;
+  border-color: #1890ff !important;
+}
+.ant-radio-button-wrapper {
+  padding: 0 27px !important;
+  border: 1px solid #1890ff !important;
+  border-top-width: 1.02px !important;
+  color: #1890ff;
+}
+.ant-radio-button-wrapper:first-child {
+  border-left: 1px solid #1890ff !important;
+  border-radius: 3px 0 0 3px;
+}
+.numbox {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 400px;
+  top: 30px;
+}
+.numbox > .ant-form-item {
+  margin-bottom: 0 !important;
+}
+.numbox .ant-input-number-input-wrap .ant-input-number-input {
+  text-align: center !important;
+  padding: 0 !important;
+}
+.inlinebox .ant-col .ant-pro-field-checkbox-horizontal :nth-child(3) {
+  margin-top: 5px;
+}
+.inlinebox .ant-col .ant-pro-field-checkbox-horizontal :nth-child(-n + 2) {
+  margin-top: 2px;
+}
+.violform > .ant-row > .ant-form-item-control > .ant-form-item-control-input > .ant-form-item-control-input-content > .ant-checkbox-group :nth-child(-n +2) {
+  margin-top: 2px;
+}
+.violform > .ant-row > .ant-form-item-control > .ant-form-item-control-input > .ant-form-item-control-input-content > .ant-checkbox-group :nth-child(3) {
+  margin-left: 22px;
+}
+.violform > .ant-row > .ant-form-item-control > .ant-form-item-control-input > .ant-form-item-control-input-content > #violaService > :nth-child(2) {
+  margin-left: 18px;
+}
+.violform > .ant-row > .ant-form-item-control > .ant-form-item-control-input > .ant-form-item-control-input-content > #violaService > :nth-child(5) {
+  margin-left: 5px;
+}
+.violform > .ant-row > .ant-form-item-control > .ant-form-item-control-input > .ant-form-item-control-input-content > #violaService > :nth-child(6) {
+  margin-left: 8px;
+}
+.violform > .ant-row > .ant-form-item-control > .ant-form-item-control-input > .ant-form-item-control-input-content > #violaService > :nth-child(7) {
+  margin-left: 2px;
+}
+.illegaltable .ant-form-item {
+  margin: 0 !important;
+}
+.illegaltable .ant-table.ant-table-middle .ant-table-thead > tr > th,
+.illegaltable .ant-table.ant-table-middle .ant-table-tbody > tr > td {
+  padding: 6px 8px;
+}
+.illegaltable .ant-form-item-control > div div:nth-child(2) {
+  margin-left: 0 !important;
+}
+.illegaltable .ant-space-align-center {
+  gap: 16px !important;
+}
+.illegaltable .ant-empty-normal {
+  display: none;
+}

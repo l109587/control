@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "total": 2,
+  "data": [
+    {
+      "filterName": "level",
+      "count": 2,
+      "info": [
+        {
+          "id": 1,
+          "text": "1"
+        },
+        {
+          "id": 2,
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "filterName": "type",
+      "count": 2,
+      "info": [
+        {
+          "id": 1,
+          "text": "1"
+        },
+        {
+          "id": 2,
+          "text": "2"
+        }
+      ]
+    }
+  ]
+}

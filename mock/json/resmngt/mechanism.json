@@ -1,0 +1,41 @@
+
+{
+	"id":1,
+	"name":"北信源",
+	"level":1,
+	"gpname":"/",
+	"gpid":"0",
+	"gpnamePath":"/北信源",
+	"gpnameIDPath":"0.1",
+    "leaf":"N",
+	"children":[
+		{
+			"id":2,
+			"name":"人力资源部",
+			"gpid":"1",
+			"gpname":"北信源",
+			"gpnamePath":"/北信源/人力资源部",
+			"gpnameIDPath":"0.1.2",
+			"level":2,
+			"leaf":"Y"
+		},{
+			"id":3,
+			"name":"人力资源部2",
+			"gpid":"1",
+			"gpname":"北信源",
+			"gpnamePath":"/北信源/人力资源部",
+			"gpnameIDPath":"0.1.2",
+			"level":2,
+			"leaf":"Y"
+		},{
+			"id":4,
+			"name":"人力资源部3",
+			"gpid":"1",
+			"gpname":"北信源",
+			"gpnamePath":"/北信源/人力资源部",
+			"gpnameIDPath":"0.1.2",
+			"level":2,
+			"leaf":"Y"
+		}
+	]	
+}

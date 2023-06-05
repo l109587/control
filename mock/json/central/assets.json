@@ -1,0 +1,50 @@
+
+
+{
+	"success": true,
+	"data": [
+		{
+			"id": "1",
+			"status": "online",
+			"assetname": "online",
+			"assetip": "192.168.13.111",
+			"assetmac": "00:11:22:33:44:55:66",
+			"assettype": "TP-LINK",
+			"operatingsystem": "TP-LINK",
+			"personliable": "网关监测",
+			"accesslocation": "TP-LINKdsfsdf",
+			"client": "TP-LINK",
+			"lastofflinetime": "2022-03-01 12:20:12",
+			"firstdiscoverytime": "2022-03-01 12:20:12"
+		},
+		{
+			"id": "2",
+			"status": "online",
+			"assetname": "online",
+			"assetip": "192.168.13.111",
+			"assetmac": "00:11:22:33:44:55:66",
+			"assettype": "TP-LINK",
+			"operatingsystem": "TP-LINK",
+			"personliable": "网关监测",
+			"accesslocation": "TP-LINKdsfsdf",
+			"client": "TP-LINK",
+			"lastofflinetime": "2022-03-01 12:20:12",
+			"firstdiscoverytime": "2022-03-01 12:20:12"
+		},
+        {
+			"id": "3",
+			"status": "online",
+			"assetname": "online",
+			"assetip": "192.168.13.111",
+			"assetmac": "00:11:22:33:44:55:66",
+			"assettype": "TP-LINK",
+			"operatingsystem": "TP-LINK",
+			"personliable": "网关监测",
+			"accesslocation": "TP-LINKdsfsdf",
+			"client": "TP-LINK",
+			"lastofflinetime": "2022-03-01 12:20:12",
+			"firstdiscoverytime": "2022-03-01 12:20:12"
+		}
+	],
+	"total": 10
+}

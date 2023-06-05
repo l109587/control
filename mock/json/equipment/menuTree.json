@@ -1,0 +1,686 @@
+{
+	"success": true,
+	"data": [
+		{
+			"name": "index",
+			"icon": "HomeOutlined",
+			"route": "/index/tac",
+			"zh": {
+				"name": "首页"
+			},
+			"children":[
+				{
+					"name": "index",
+					"route": "/index/tac",
+					"zh": {
+						"name": "首页"
+					}
+				},
+				{
+					"name": "index",
+					"route": "/index/nbg",
+					"zh": {
+						"name": "边界首页"
+					}
+				}
+			]
+		},
+		{
+			"name": "cfgmngt",
+			"icon": "GlobalOutlined",
+			"route": "/cfgmngt/usersync",
+			"zh": {
+				"name": "配置管理"
+			},
+			"children": [
+				{
+					"name": "cfgmngt",
+					"route": "/cfgmngt/baseconf",
+					"zh": {
+						"name": "字段配置"
+					}
+				},
+				{
+					"name": "cfgmngt",
+					"route": "/cfgmngt/deptsync",
+					"zh": {
+						"name": "组织同步"
+					}
+				},
+				{
+					"name": "cfgmngt",
+					"route": "/cfgmngt/syszone",
+					"zh": {
+						"name": "区域配置"
+					}
+				},
+				{
+					"name": "cfgmngt",
+					"route": "/cfgmngt/userlist",
+					"zh": {
+						"name": "用户列表"
+					}
+				},
+				{
+					"name": "cfgmngt",
+					"route": "/cfgmngt/signature",
+					"zh": {
+					  "name": "签章流程"
+					}
+				}
+			]
+		},
+		{
+			"name": "assmngt",
+			"icon": "GlobalOutlined",
+			"route": "/assmngt/assinput",
+			"zh": {
+				"name": "资产管理"
+			},
+			"children": [
+				{
+					"name": "assinput",
+					"route": "/assmngt/assinput",
+					"zh": {
+						"name": "资产录入"
+					}
+				},
+				{
+					"name": "assinput",
+					"route": "/assmngt/assapply",
+					"zh": {
+						"name": "资产申请"
+					}
+				},
+				{
+					"name": "assinput",
+					"route": "/assmngt/approval",
+					"zh": {
+						"name": "资产审批"
+					}
+				}
+			]
+		},
+		{
+			"name": "central",
+			"icon": "GlobalOutlined",
+			"route": "/manage/binding",
+			"zh": {
+				"name": "绑定管理"
+			},
+			"children": [
+				{
+					"name": "assets",
+					"route": "/manage/binding",
+					"zh": {
+						"name": "终端单项绑定"
+					}
+				}
+			
+			]
+		},
+		{
+			"name": "central",
+			"icon": "GlobalOutlined",
+			"route": "/central/index",
+			"zh": {
+				"name": "集控分析"
+			},
+			"children": [
+				{
+					"name": "assets",
+					"route": "/central/assets",
+					"zh": {
+						"name": "资产信息"
+					}
+				},
+				{
+					"name": "assctl",
+					"route": "/central/assctl",
+					"zh": {
+						"name": "资产管控"
+					}
+				},
+				{
+					"name": "ressta",
+					"route": "/central/ressta",
+					"zh": {
+						"name": "资源统计"
+					}
+				}
+			]
+		},
+		{
+			"name": "resmngt",
+			"icon": "GlobalOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "资源管理"
+			},
+			"children": [
+				{
+					"name": "baseconf",
+					"route": "/resmngt/baseconf",
+					"zh": {
+						"name": "基础配置"
+					}
+				},
+				{
+					"name": "addrplan",
+					"route": "/resmngt/addrplan",
+					"zh": {
+						"name": "地址规划"
+					}
+				},
+				{
+					"name": "snetconf",
+					"route": "/resmngt/snetconf",
+					"zh": {
+						"name": "子网配置"
+					}
+				},
+				{
+					"name": "addrallc",
+					"route": "/resmngt/addrallc",
+					"zh": {
+						"name": "地址分配"
+					}
+				},
+				{
+					"name": "resapply",
+					"route": "/resmngt/resapply",
+					"zh": {
+						"name": "资源申请"
+					}
+				},
+				{
+					"name": "approval",
+					"route": "/resmngt/approval",
+					"zh": {
+						"name": "资源审批"
+					}
+				}
+			]
+		},
+		{
+			"name": "mconfig",
+			"icon": "AppstoreOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "策略中心"
+			},
+			"children": [
+				{
+					"name": "aptaddr",
+					"route": "/mconfig/aptaddr",
+					"zh": {
+						"name": "恶意地址"
+					}
+				},
+				{
+					"name": "blkwhtl",
+					"route": "/mconfig/blkwhtl",
+					"zh": {
+						"name": "黑白名单"
+					}
+				},
+				{
+					"name": "agtpolicy",
+					"route": "/mconfig/agtpolicy",
+					"zh": {
+						"name": "终端策略"
+					}
+				},
+				{
+					"name": "nacpolicy",
+					"route": "/mconfig/nacpolicy",
+					"zh": {
+						"name": "准入策略"
+					}
+				}
+			]
+		},
+		{
+			"name": "logmngt",
+			"icon": "AlertOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "事件日志"
+			},
+			"children": [
+				{
+					"name": "report",
+					"route": "/logmngt/report",
+					"zh": {
+						"name": "上报配置"
+					}
+				},
+				{
+					"name": "device",
+					"route": "/logmngt/device",
+					"zh": {
+						"name": "设备日志"
+					}
+				},
+				{
+					"name": "policy",
+					"route": "/logmngt/policy",
+					"zh": {
+						"name": "策略日志"
+					}
+				},
+				{
+					"name": "devctl",
+					"route": "/logmngt/devctl",
+					"zh": {
+						"name": "管控日志"
+					}
+				},
+				{
+					"name": "dstaut",
+					"route": "/logmngt/dstaut",
+					"zh": {
+						"name": "目标审计"
+					}
+				}
+			]
+		},
+		{
+			"name": "sysconf",
+			"icon": "SettingOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "系统配置"
+			},
+			"children": [
+				{
+					"name": "adminacc",
+					"route": "/sysconf/adminacc",
+					"zh": {
+						"name": "管理员账号"
+					}
+				},
+				{
+					"name": "network",
+					"route": "/sysconf/network",
+					"zh": {
+						"name": "网络设置"
+					}
+				},
+				{
+					"name": "systime",
+					"route": "/sysconf/systime",
+					"zh": {
+						"name": "系统时间"
+					}
+				},
+				{
+					"name": "sysserv",
+					"route": "/sysconf/sysserv",
+					"zh": {
+						"name": "系统服务"
+					}
+				},
+				{
+					"name": "syszone",
+					"route": "/sysconf/syszone",
+					"zh": {
+						"name": "区域配置"
+					}
+				},
+				{
+					"name": "apiauth",
+					"route": "/sysconf/apiauth",
+					"zh": {
+						"name": "接口授权"
+					}
+				},
+				{
+					"name": "sysmenu",
+					"route": "/sysconf/sysmenu",
+					"zh": {
+						"name": "菜单权限"
+					}
+				},
+				{
+					"name": "netconf",
+					"route": "/sysconf/netconf",
+					"zh": {
+						"name": "网络配置"
+					}
+				},
+				{
+					"name": "syscert",
+					"route": "/sysconf/syscert",
+					"zh": {
+						"name": "系统证书"
+					}
+				},
+				{
+					"name": "deployd",
+					"route": "/sysconf/deployd",
+					"zh": {
+						"name": "部署配置"
+					}
+				}
+			]
+		},
+		{
+			"name": "sysmain",
+			"icon": "ToolOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "系统维护"
+			},
+			"children": [
+				{
+					"name": "mtacfg",
+					"route": "/sysmain/mtacfg",
+					"zh": {
+						"name": "配置维护"
+					}
+				},
+				{
+					"name": "status",
+					"route": "/sysmain/status",
+					"zh": {
+						"name": "系统状态"
+					}
+				},
+				{
+					"name": "update",
+					"route": "/sysmain/update",
+					"zh": {
+						"name": "系统升级"
+					}
+				},
+				{
+					"name": "mtadat",
+					"route": "/sysmain/mtadat",
+					"zh": {
+						"name": "数据维护"
+					}
+				},
+				{
+					"name": "mtalog",
+					"route": "/sysmain/mtalog",
+					"zh": {
+						"name": "日志维护"
+					}
+				},
+				{
+					"name": "remote",
+					"route": "/sysmain/remote",
+					"zh": {
+						"name": "系统调试"
+					}
+				}
+			]
+		},
+		{
+			"name": "analyse",
+			"icon": "GlobalOutlined",
+			"zh": {
+				"name": "监测分析"
+			},
+			"children": [
+				{
+					"name": "assets",
+					"route": "/analyse/assets",
+					"zh": {
+						"name": "资产分析"
+					}
+				},
+				{
+					"name": "illout",
+					"route": "/analyse/illout",
+					"zh": {
+						"name": "违规外联"
+					}
+				},
+				{
+					"name": "series",
+					"route": "/analyse/series",
+					"zh": {
+						"name": "网络串线"
+					}
+				},
+				{
+					"name": "illinn",
+					"route": "/analyse/illinn",
+					"zh": {
+						"name": "违规内联"
+					}
+				},
+				{
+					"name": "illsvr",
+					"route": "/analyse/illsvr",
+					"zh": {
+						"name": "违规服务"
+					}
+				},
+				{
+					"name": "resmap",
+					"route": "/analyse/resmap",
+					"zh": {
+						"name": "资源分布"
+					}
+				}
+			]
+		},
+		{
+			"name": "monitor",
+			"icon": "AppstoreOutlined",
+			"zh": {
+				"name": "监测管理"
+			},
+			"children": [
+				{
+					"name": "basecfg",
+					"route": "/monitor/basecfg",
+					"zh": {
+						"name": "基础配置"
+					}
+				},
+				{
+					"name": "mapping",
+					"route": "/monitor/mapping",
+					"zh": {
+						"name": "资产测绘"
+					}
+				},
+				{
+					"name": "illegal",
+					"route": "/monitor/illegal",
+					"zh": {
+						"name": "违规监测"
+					}
+				},
+				{
+					"name": "crossed",
+					"route": "/monitor/crossed",
+					"zh": {
+						"name": "串线监测"
+					}
+				},
+				{
+					"name": "montask",
+					"route": "/monitor/montask",
+					"zh": {
+						"name": "监测任务"
+					}
+				}
+			]
+		},
+		{
+			"name": "probers",
+			"icon": "MonitorOutlined",
+			"route": "",
+			"zh": {
+				"name": "探针管理"
+			},
+			"children": [
+				{
+					"name": "jsprobe",
+					"route": "/probers/jsprobe",
+					"zh": {
+						"name": "脚本探针"
+					}
+				},
+				{
+					"name": "teprobe",
+					"route": "/probers/teprobe",
+					"zh": {
+						"name": "终端探针"
+					}
+				}
+			]
+		},
+		{
+			"name": "temporary",
+			"icon": "UsbOutlined",
+			"route": "",
+			"zh": {
+				"name": "临时目录"
+			},
+			"children": [
+			
+			]
+		},
+		{
+			"name": "illevent",
+			"icon": "MonitorOutlined",
+			"route": "",
+			"zh": {
+				"name": "违规监控"
+			},
+			"children": [
+				{
+					"name": "netseries",
+					"route": "/illevent/netseries",
+					"zh": {
+						"name": "网络串线事件"
+					}
+				},
+				{
+					"name": "illoutline",
+					"route": "/illevent/illoutline",
+					"zh": {
+						"name": "违规外联事件"
+					}
+				},
+				{
+					"name": "nacreport",
+					"route": "/illevent/nacreport",
+					"zh": {
+						"name": "准入外联事件"
+					}
+				},
+				{
+					"name": "offoutline",
+					"route": "/illevent/offoutline",
+					"zh": {
+						"name": "离网外联事件"
+					}
+				},
+				{
+					"name": "fileleak",
+					"route": "/illevent/fileleak",
+					"zh": {
+						"name": "文件外泄事件"
+					}
+				},
+				{
+					"name": "edpreport",
+					"route": "/illevent/edpreport",
+					"zh": {
+						"name": "内网终端事件"
+					}
+				}
+			]
+		},
+		{
+			"name": "monconf",
+			"icon": "UsbOutlined",
+			"route": "",
+			"zh": {
+				"name": "监控配置"
+			},
+			"children": [
+				{
+					"name": "outmconf",
+					"route": "/monconf/outmconf",
+					"zh": {
+						"name": "外联信息配置"
+					}
+				},
+				{
+					"name": "smsgate",
+					"route": "/monconf/smsgate",
+					"zh": {
+						"name": "短信告警配置"
+					}
+				},
+				{
+					"name": "iaddrmap",
+					"route": "/monconf/iaddrmap",
+					"zh": {
+						"name": "内网地址映射"
+					}
+				},
+				{
+					"name": "alertnotice",
+					"route": "/monconf/alertnotice",
+					"zh": {
+						"name": "告警通知配置"
+					}
+				},
+				{
+					"name": "outwhite",
+					"route": "/monconf/outwhite",
+					"zh": {
+						"name": "外网可信名单"
+					}
+				}
+			]
+		},
+		{
+			"name": "alarmdt",
+			"icon": "GlobalOutlined",
+			"route": "",
+			"zh": {
+				"name": "检测告警"
+			},
+			"children": [
+				{
+					"name": "transfer",
+					"route": "/alarmdt/transfer",
+					"zh": {
+						"name": "传输涉密告警"
+					}
+				},
+				{
+					"name": "attacker",
+					"route": "/alarmdt/attacker",
+					"zh": {
+						"name": "攻击窃密告警"
+					}
+				},
+				{
+					"name": "targetadt",
+					"route": "/alarmdt/targetadt",
+					"zh": {
+						"name": "目标审计告警"
+					}
+				},
+				{
+					"name": "unknown",
+					"route": "/alarmdt/unknown",
+					"zh": {
+						"name": "未知攻击告警"
+					}
+				}
+			]
+		}
+	]
+}

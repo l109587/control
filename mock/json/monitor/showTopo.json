@@ -1,0 +1,176 @@
+{
+  "errno": 0,
+  "errmsg": "",
+  "count": 1,
+  "nodes": [
+    {
+      "id": 0,
+      "name": "测试0",
+      "ipAddr": "192.168.12.0",
+      "ifNum": 52,
+      "termNum": 3,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "switch",
+      "mac": "",
+      "root": 1,
+      "icon": "/resource/images/topology/switch_warn.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 1,
+      "name": "测试1",
+      "ipAddr": "192.168.12.1",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "switch",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/switch_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 2,
+      "name": "测试2",
+      "ipAddr": "192.168.12.2",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "nat",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/nat_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 3,
+      "name": "测试3",
+      "ipAddr": "192.168.12.3",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "router",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/router_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 4,
+      "name": "测试4",
+      "ipAddr": "192.168.12.4",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "router",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/router_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 5,
+      "name": "测试5",
+      "ipAddr": "192.168.12.5",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "router",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/router_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 6,
+      "name": "测试6",
+      "ipAddr": "192.168.12.6",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "router",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/router_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 7,
+      "name": "测试7",
+      "ipAddr": "192.168.12.7",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "router",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/router_on.png",
+      "blockterm": "1"
+    },
+    {
+      "id": 8,
+      "name": "测试8",
+      "ipAddr": "192.168.12.8",
+      "ifNum": 29,
+      "termNum": 40,
+      "termOnline": 0,
+      "termWarning": 0,
+      "online": 1,
+      "devtype": "nat",
+      "mac": "",
+      "root": 2,
+      "icon": "/resource/images/topology/nat_on.png",
+      "blockterm": "1"
+    }
+  ],
+  "lines": [
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.1"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.2"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.3"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.4"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.5"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.6"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.7"
+    },
+    {
+      "from": "192.168.12.0",
+      "to": "192.168.12.8"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+.tablelistbottom .ant-form-item {
+  margin: 0 !important;
+}
+.tablelistbottom .ant-table.ant-table-middle .ant-table-thead > tr > th,
+.tablelistbottom .ant-table.ant-table-middle .ant-table-tbody > tr > td {
+  padding: 6px 8px;
+}
+.tablelistbottom .ant-empty-normal {
+  margin: 0 !important;
+}
+.tablelistbottom .ant-space-align-center {
+  gap: 13px !important;
+}
+.tablelistbottom .ant-empty-normal {
+  display: none;
+}
+.seewhtlistmodal .ant-tabs-top > .ant-tabs-nav {
+  margin: 0 !important;
+}
+.ant-modal-body {
+  padding: 0 !important;
+}
+.seewhtlistmodal {
+  padding: 24px !important;
+}
+.seewhtlistmodal .ant-pro-card-body {
+  padding: 0 12px !important;
+}
+.seewhtlistmodal .ant-pro-table-list-toolbar-container {
+  padding: 8px 0 !important;
+}

@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "id": "1",
+      "name": "test1",
+      "ip": "192.168.134.173",
+      "vender": "Cisco",
+      "model": "dac",
+      "ifNum": "1",
+      "sysName": "",
+      "state": "8",
+      "core": "1",
+      "cpu": "0",
+      "mem": "0",
+      "snmp": "",
+      "telnet": "111",
+      "isClient": "1",
+      "secret": "332",
+      "radiusTimeout": "0",
+      "pap": "0",
+      "chap": "1",
+      "md5": "0",
+      "detail": "",
+      "updatetime": "",
+      "hand": 0,
+      "termNum": 0,
+      "bindDev": 0,
+      "algId": 32767,
+      "switchType": 0,
+      "autobindMac": "0",
+      "abendTime": "0",
+      "incontrol": "0",
+      "ctrlTrunk": "0",
+      "trunkNum": "0",
+      "dot1x": "0",
+      "aclMode": "0",
+      "remoteState": "-99"
+    }
+  ],
+  "swState": "交换机发现扫描未开启！"
+}

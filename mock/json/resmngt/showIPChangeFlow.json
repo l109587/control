@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "data": {
+        "ipaddr": "192.168.12.4",
+        "baseInfo": {
+            "mac": "",
+            "org": "边界安全",
+            "user": "黄世海",
+            "zone": "北京分部",
+            "phone": "13161608131",
+            "buisUsg": "办公设备"
+        },
+        "changeInfo": {
+            "zone": "北京分部",
+            "org": "边界安全",
+            "user": "黄世海-变更",
+            "phone": "13161601111",
+            "buisUsg": "服务器",
+            "mac": ""
+        },
+        "flowInfo": [
+            {
+                "action": "submit",
+                "time": "2022-09-01 15:47:38",
+                "admin": "two",
+                "desc": "提交资源变更申请",
+                "result": "",
+                "notes": ""
+            }
+        ]
+    }
+}

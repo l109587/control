@@ -1,0 +1,20 @@
+{
+	"success": true,
+	"total": 1,
+	"data": [
+		{
+			"filterName": "online",
+			"count": 2,
+			"info": [
+				{
+					"id": 0,
+					"text": "离线"
+				},
+				{
+					"id": 1,
+					"text": "在线"
+				}
+			]
+		}
+	]
+}

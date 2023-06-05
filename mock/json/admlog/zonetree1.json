@@ -1,0 +1,200 @@
+{
+    "success": true,
+    "id": "1",
+    "name": "全部区域",
+    "level": "1",
+    "gpnamePath": "/全部区域",
+    "gpnameIDPath": "0.1",
+    "gpname": "全部区域",
+    "gpid": "0",
+    "leaf": "N",
+    "type": "zone",
+    "children": [
+        {
+            "id": "2",
+            "name": "北京分公司",
+            "level": "2",
+            "gpnamePath": "/全部区域/北京分公司",
+            "gpnameIDPath": "0.1.2",
+            "gpname": "北京分公司",
+            "gpid": "1",
+            "leaf": "N",
+            "type": "zone",
+            "children": [
+                {
+                    "id": "6",
+                    "name": "慧谷1期",
+                    "level": "3",
+                    "gpnamePath": "/全部区域/北京分公司/慧谷1期",
+                    "gpnameIDPath": "0.1.2.6",
+                    "gpname": "慧谷1期",
+                    "gpid": "2",
+                    "leaf": "N",
+                    "type": "zone",
+                    "children": [
+                        {
+                            "id": "9",
+                            "name": "北京研发中心",
+                            "level": "4",
+                            "gpnamePath": "/全部区域/北京分公司/慧谷1期/北京研发中心",
+                            "gpnameIDPath": "0.1.2.6.9",
+                            "gpname": "北京研发中心",
+                            "gpid": "6",
+                            "leaf": "N",
+                            "type": "org",
+                            "children": [
+                                {
+                                    "id": "10",
+                                    "name": "边界安全部",
+                                    "level": "5",
+                                    "gpnamePath": "/全部区域/北京分公司/慧谷1期/北京研发中心/边界安全部",
+                                    "gpnameIDPath": "0.1.2.6.9.10",
+                                    "gpname": "边界安全部",
+                                    "gpid": "9",
+                                    "leaf": "Y",
+                                    "type": "org"
+                                },
+                                {
+                                    "id": "11",
+                                    "name": "网络安全部",
+                                    "level": "5",
+                                    "gpnamePath": "/全部区域/北京分公司/慧谷1期/北京研发中心/网络安全部",
+                                    "gpnameIDPath": "0.1.2.6.9.11",
+                                    "gpname": "网络安全部",
+                                    "gpid": "9",
+                                    "leaf": "Y",
+                                    "type": "org"
+                                },
+                                {
+                                    "id": "12",
+                                    "name": "移动互联部",
+                                    "level": "5",
+                                    "gpnamePath": "/全部区域/北京分公司/慧谷1期/北京研发中心/移动互联部",
+                                    "gpnameIDPath": "0.1.2.6.9.12",
+                                    "gpname": "移动互联部",
+                                    "gpid": "9",
+                                    "leaf": "Y",
+                                    "type": "org"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "13",
+                            "name": "行政部",
+                            "level": "4",
+                            "gpnamePath": "/全部区域/北京分公司/慧谷1期/行政部",
+                            "gpnameIDPath": "0.1.2.6.13",
+                            "gpname": "行政部",
+                            "gpid": "6",
+                            "leaf": "Y",
+                            "type": "org"
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "name": "慧谷2期",
+                    "level": "3",
+                    "gpnamePath": "/全部区域/北京分公司/慧谷2期",
+                    "gpnameIDPath": "0.1.2.7",
+                    "gpname": "慧谷2期",
+                    "gpid": "2",
+                    "leaf": "N",
+                    "type": "zone",
+                    "children": [
+                        {
+                            "id": "14",
+                            "name": "人事部",
+                            "level": "4",
+                            "gpnamePath": "/全部区域/北京分公司/慧谷2期/人事部",
+                            "gpnameIDPath": "0.1.2.7.14",
+                            "gpname": "人事部",
+                            "gpid": "7",
+                            "leaf": "Y",
+                            "type": "org"
+                        },
+                        {
+                            "id": "15",
+                            "name": "财务部",
+                            "level": "4",
+                            "gpnamePath": "/全部区域/北京分公司/慧谷2期/财务部",
+                            "gpnameIDPath": "0.1.2.7.15",
+                            "gpname": "财务部",
+                            "gpid": "7",
+                            "leaf": "Y",
+                            "type": "org"
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "name": "科C大厦",
+                    "level": "3",
+                    "gpnamePath": "/全部区域/北京分公司/科C大厦",
+                    "gpnameIDPath": "0.1.2.8",
+                    "gpname": "科C大厦",
+                    "gpid": "2",
+                    "leaf": "Y",
+                    "type": "zone"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "西安分公司",
+            "level": "2",
+            "gpnamePath": "/全部区域/西安分公司",
+            "gpnameIDPath": "0.1.3",
+            "gpname": "西安分公司",
+            "gpid": "1",
+            "leaf": "N",
+            "type": "zone",
+            "children": [
+                {
+                    "id": "16",
+                    "name": "西安研发中心",
+                    "level": "3",
+                    "gpnamePath": "/全部区域/西安分公司/西安研发中心",
+                    "gpnameIDPath": "0.1.3.16",
+                    "gpname": "西安研发中心",
+                    "gpid": "3",
+                    "leaf": "Y",
+                    "type": "org"
+                },
+                {
+                    "id": "17",
+                    "name": "西安测试中心",
+                    "level": "3",
+                    "gpnamePath": "/全部区域/西安分公司/西安测试中心",
+                    "gpnameIDPath": "0.1.3.17",
+                    "gpname": "西安测试中心",
+                    "gpid": "3",
+                    "leaf": "Y",
+                    "type": "org"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "武汉分公司",
+            "level": "2",
+            "gpnamePath": "/全部区域/武汉分公司",
+            "gpnameIDPath": "0.1.4",
+            "gpname": "武汉分公司",
+            "gpid": "1",
+            "leaf": "Y",
+            "type": "zone"
+        },
+        {
+            "id": "5",
+            "name": "南京分公司",
+            "level": "2",
+            "gpnamePath": "/全部区域/南京分公司",
+            "gpnameIDPath": "0.1.5",
+            "gpname": "南京分公司",
+            "gpid": "1",
+            "leaf": "Y",
+            "type": "zone"
+        }
+    ]
+}

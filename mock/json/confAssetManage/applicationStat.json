@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": {
+    "SignIN": {
+      "total": 200,
+      "unsubmitted": 100,
+      "unapproved": 100,
+      "approved": 100,
+      "rejected": 100
+    },
+    "SignChange": {
+      "total": 200,
+      "unsubmitted": 100,
+      "unapproved": 100,
+      "approved": 100,
+      "rejected": 100
+    },
+    "SignOUT": {
+      "total": 200,
+      "unsubmitted": 100,
+      "unapproved": 100,
+      "approved": 100,
+      "rejected": 100
+    }
+  }
+}

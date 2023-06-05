@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": {
+    "macaddr": "1a:2b:3c:11:34:41",
+    "ipaddr": "192.168.10.1",
+    "baseInfo": {
+      "user": "张三",
+      "phone": "15112345678",
+      "zone": "北京市",
+      "org": "派出所A1",
+      "assetType": "PC",
+      "assetModel": "fd-ddo",
+      "vlan": "12",
+      "location": "一楼",
+      "buisUsg": "PC"
+    },
+    "changeInfo": {
+      "user": "李四",
+      "phone": "15112345679",
+      "assetModel": "fd-ddo",
+      "vlan": "12",
+      "location": "一楼",
+      "buisUsg": "PC"
+    },
+    "flowInfo": [
+      {
+        "admin": "xibeiwang",
+        "time": "2022-04-25 01:22:12",
+        "action": "submit",
+        "desc": "提交资产变更申请",
+        "result": "",
+        "notes": ""
+      },
+      {
+        "admin": "haidian",
+        "time": "2022-04-26 01:22:12",
+        "action": "approval",
+        "desc": "审批资产变更申请",
+        "result": "pass",
+        "notes": "同意"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "prdInfo": {
+    "pmodel": "VRV-NFD-BXY04D",
+    "hwuuid": "V2ISGF",
+    "uptime": "2天2小时36分钟",
+    "hwinfo": "929 GB (1%)"
+  },
+  "licInfo": {
+    "serial": "02f38a62a6a9d82096382c02586ab046",
+    "status": "正常",
+    "status_color": "normal",
+    "ahzusr": "TEST",
+    "lic_type": "开发授权",
+    "ahz_type": "VGE-ST",
+    "use_expi": "2022-05-31",
+    "svr_expi": "2022-05-31",
+    "svr_tele": "400-8188-110"
+  }
+}

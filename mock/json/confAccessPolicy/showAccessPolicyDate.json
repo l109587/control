@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "agentGroup": [
+    {
+      "id": "1",
+      "value": "1",
+      "title": "用户1",
+      "isLeaf":true
+    },
+    {
+      "id": "2",
+      "value": "2",
+      "title": "用户2",
+      "isLeaf":true
+    }
+  ],
+  "visitArea": [
+    {
+      "label": "AS12接入控制",
+      "value": "1"
+    }
+  ]
+}

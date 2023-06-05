@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "state": {
+    "name": "授权状态",
+    "value": "正常",
+    "icon": "OK"
+  },
+  "dtime": {
+    "week": "星期一",
+    "date": "2022-02-07"
+  },
+  "sinfo": {
+    "pmodel": "VRV-BMG-5000",
+    "runtime": "9天"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"success": true,
+	"outlineCfgName": "全局配置",
+	"monitorItems": ["ckInOut","ckWiw","ckWebOut"],
+    "state": "Y",
+    "period":3
+}

@@ -1,0 +1,9 @@
+{
+	"success": true,
+	"smtpServer": "http://www.yunpian.com/sendSms",
+	"mailSSL": "Y",
+	"mailCount": "1222",
+	"mailPd": "132",
+	"sendMails": "132@aa.com;222@qq.com",
+	"sendPhones": ""
+}

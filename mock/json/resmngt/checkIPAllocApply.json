@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "data": {
+        "applyInfo": {
+            "orderID":"xxx",
+            "zoneID": 1,
+            "zone": "北京市",
+			"fullZone": "派出所A1",
+            "orgID": 1,
+            "org": "派出所A1",
+			"fullOrg": "派出所A1",
+            "user": "张三",
+            "phone": "18234789704",
+            "buisUsgID": "3",
+            "buisUsg": "监控设备",
+            "applyNum": 2,
+            "mac": "1a:2b:3c:11:34:41",
+            "vlan": 12
+        },
+		"allocInfo": [
+				{
+                    "ipaddr": "10.88.0.2",
+                    "subnet": "10.88.0.1",
+                    "mask": 24,
+                    "validType": "forever/expire",
+                    "expireTime": "0/2022-10-10 10:00:00"
+                },
+                {
+                    "ipaddr": "10.88.0.3",
+                    "subnet": "10.88.0.1",
+                    "mask": 24,
+                    "validType": "forever/expire",
+                    "expireTime": "0/2022-10-10 10:00:00"
+                }
+            ],
+        "flowInfo": [
+			{
+				"admin": "xibeiwang",
+                "time": "2022-04-25 01:22:12",
+                "action": "submit",
+                "desc": "提交资源注销申请",
+				"result": "",
+                "notes": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": [
+    {
+      "text": "eth0",
+      "value": 1
+    },
+    {
+      "text": "eth1",
+      "value": 2
+    }
+  ]
+}

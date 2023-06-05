@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "level": "authPriv",
+  "proto": "MD5",
+  "passwd": "12345678",
+  "status": 0,
+  "usname": "a",
+  "encrypt": "DES",
+  "iprange": "192.168.1.1/24",
+  "version": "v3",
+  "community": "public-vrv"
+}

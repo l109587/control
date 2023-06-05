@@ -1,0 +1,1 @@
+{"success":true,"data":[{"text":"默认口","value":"default"},{"text":"管理口","value":"mgt"},{"text":"热备口","value":"ext"},{"text":"镜像口","value":"mirror"},{"text":"路由口","value":"routed"},{"text":"转发口","value":"forward"}]}

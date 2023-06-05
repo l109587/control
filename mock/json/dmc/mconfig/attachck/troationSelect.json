@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": {
+    "risk": [
+      {
+        "label": "无风险",
+        "value": 0
+      },
+      {
+        "label": "一般级",
+        "value": 1
+      },
+      {
+        "label": "关注级",
+        "value": 2
+      },
+      {
+        "label": "严重级",
+        "value": 3
+      },
+      {
+        "label": "紧急级",
+        "value": 4
+      }
+    ],
+    "trojan_type": [
+      {
+        "label": "特种木马",
+        "value": 1
+      },
+      {
+        "label": "普通木马",
+        "value": 2
+      },
+      {
+        "label": "远程木马",
+        "value": 3
+      },
+      {
+        "label": "其他木马",
+        "value": 4
+      }
+    ]
+  }
+}

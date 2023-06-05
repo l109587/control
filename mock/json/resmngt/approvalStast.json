@@ -1,0 +1,20 @@
+{
+	"success":true,
+	"data":{
+	   "IPAlloc":{
+            "unapproved":100, 
+            "approved":100, 
+            "rejected":100
+		},
+       "IPChange":{
+            "unapproved":100, 
+            "approved":100, 
+            "rejected":100 
+		},
+        "IPCancel":{
+            "unapproved":100, 
+            "approved":100, 
+            "rejected":100
+		}
+	}
+}

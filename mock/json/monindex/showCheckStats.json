@@ -1,0 +1,32 @@
+{
+	"success": true,
+    "title": "违规统计TOP5",
+	"total": 3000,
+	"data": [
+		{
+			"type": "weakpass",
+			"name": "弱口令",
+			"value": 456
+		},
+		{
+			"type": "antivirus",
+			"name": "杀毒软件",
+			"value": 1213
+		},
+		{
+			"type": "outline",
+			"name": "违规外联",
+			"value": 312345
+		},
+        {
+			"type": "software",
+			"name": "软件安装",
+			"value": 351236
+		},
+        {
+			"type": "net-port",
+			"name": "端口开放",
+			"value": 356
+		}
+	]
+}

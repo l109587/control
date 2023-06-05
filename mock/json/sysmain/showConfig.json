@@ -1,0 +1,13 @@
+{
+	"success":true,
+	"total":1,
+	"data":
+		{
+			"backTime": "02:00",
+			"remoteBackup":"on",
+			"serverAddr":"10.10.10.10",
+			"serverPort":"21",
+			"username":"ftp",
+            "password":"****"
+		}
+}

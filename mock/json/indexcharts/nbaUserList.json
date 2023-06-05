@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "total": 3,
+  "data": [
+    {
+      "value": "eth6",
+      "label": "eth6"
+    },
+    {
+      "value": "eth7",
+      "label": "eth7"
+    },
+    {
+      "value": "other",
+      "label": "other"
+    }
+  ]
+}

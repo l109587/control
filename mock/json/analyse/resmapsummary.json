@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "netCount": {
+    "classA": 2,
+    "classB": 5,
+    "classC": 1200
+  },
+  "usingRate": {
+    "higher": 223,
+    "equal": 500,
+    "lower": 500
+  },
+  "probeCount": {
+    "probeTotal": 1023,
+    "alreadyTotal": 798,
+    "disTotal": 425
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "内存状态",
+    "usage": "15%",
+    "count": 150,
+    "lines": [
+      { "name": "mem", "time": "18:11:58", "value": 14 },
+      { "name": "mem", "time": "18:12:58", "value": 14 },
+      { "name": "mem", "time": "18:13:58", "value": 4 },
+      { "name": "mem", "time": "18:14:58", "value": 35 },
+      { "name": "mem", "time": "18:15:58", "value": 55 }
+    ]
+  }

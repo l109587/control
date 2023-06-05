@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "id": 1,
+      "status": "Y",
+      "number": "1",
+      "name": "xxx",
+      "devGroupID": "6",
+      "devGroupName": "研发中心",
+      "devGroupGpname": "全部区域/北京分公司/慧谷一期",
+      "type": "dev",
+      "refcnt": "10",
+      "areaID": "6",
+      "areaName": "访问权限",
+      "action": "permit"
+    },
+    {
+      "id": 2,
+      "status": "N",
+      "number": "2",
+      "name": "xxx",
+      "devGroupID": "6",
+      "devGroupName": "研发中心",
+      "devGroupGpname": "全部区域/北京分公司/慧谷一期",
+      "type": "role",
+      "refcnt": "10",
+      "areaID": "1",
+      "areaName": "访问权限",
+      "action": "drop"
+    }
+  ]
+}

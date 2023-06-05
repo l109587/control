@@ -1,0 +1,46 @@
+{
+	"success": true,
+	"total": 2,
+	"data": [
+		{
+			"filterName": "type",
+			"count": 4,
+			"info": [
+				{
+					"id": 0,
+					"text": "匿名服务"
+				},
+				{
+					"id": 1,
+					"text": "代理服务"
+				},
+				{
+					"id": 2,
+					"text": "远控服务"
+				},
+				{
+					"id": 3,
+					"text": "地址服务"
+				}
+			]
+		},
+		{
+			"filterName": "online",
+			"count": 2,
+			"info": [
+				{
+					"id": 0,
+					"text": "处置完成"
+				},
+				{
+					"id": 1,
+					"text": "首次发现"
+				},
+				{
+					"id": 2,
+					"text": "重复发现"
+				}
+			]
+		}
+	]
+}

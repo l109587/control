@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "data": [
+    {
+      "state": 3,
+      "device_id": "220409012001",
+      "type": "检测器",
+      "certsn": "010FB0FFAD9B7B9FB587245C3EECC0BDC58D8929",
+      "model": "3000",
+      "soft_version": "xxx",
+      "compare": "show",
+      "memo": "xxx"
+    },
+    {
+      "state": 2,
+      "device_id": "220409012001",
+      "type": "检测器",
+      "certsn": "010FB0FFAD9B7B9FB587245C3EECC0BDC58D8929",
+      "model": "3000",
+      "soft_version": "xxx",
+      "compare": "show",
+      "memo": "xxx"
+    },
+    {
+      "state": 0,
+      "device_id": "220409012001",
+      "type": "检测器",
+      "certsn": "010FB0FFAD9B7B9FB587245C3EECC0BDC58D8929",
+      "model": "3000",
+      "soft_version": "xxx",
+      "memo": "xxx",
+      "compare": "verify"
+    }
+  ]
+}

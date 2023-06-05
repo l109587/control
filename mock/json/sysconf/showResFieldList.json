@@ -1,0 +1,19 @@
+{
+	"success": true,
+	"total": "1",
+	"data": [
+		{
+			"id": "1",
+			"dynamic": "Y",
+			"state": "N",
+			"belong": "user",
+			"key": "field1",
+			"name": "cs",
+			"form": "list",
+			"type": "select",
+			"required": "Y",
+			"content": "",
+			"module": "{\"asset\": \"Y\", \"resource\": \"N\"}"
+		}
+	]
+}

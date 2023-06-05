@@ -1,0 +1,138 @@
+{
+	"success": true,
+	"total": 14,
+	"data": [
+		{
+			"apps": "dhcp",
+			"appcn": "DHCP协议",
+			"conn": "292",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "321",
+			"recvbyte": "97KB",
+			"totpkts": "321",
+			"totbyte": "97KB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		},
+		{
+			"apps": "dns",
+			"appcn": "域名解析协议",
+			"conn": "309,654",
+			"sendpkts": "0",
+			"sendbyte": "0B",
+			"recvpkts": "1,250,703",
+			"recvbyte": "39MB",
+			"totpkts": "1,250,703",
+			"totbyte": "39MB"
+		}
+]
+}

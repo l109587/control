@@ -1,0 +1,376 @@
+
+{
+    "success": true,
+    "data": [
+        {
+            "name": "index",
+            "icon": "HomeOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "首页"
+            },
+            "sel": "N",
+            "key": "index",
+            "title": "首页"
+        },
+        {
+            "name": "analyse",
+            "icon": "GlobalOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "集控分析"
+            },
+            "children": [
+                {
+                    "name": "assets",
+                    "route": "/analyse/assets",
+                    "zh": {
+                        "name": "资产信息"
+                    },
+                    "sel": "Y",
+                    "key": "assets",
+                    "title": "资产信息",
+                    "children":[
+                        {
+                            "title":"可写",
+                            "key":"assetswable",
+                            "sel": "N"
+                        }
+                    ]
+                },
+                {
+                    "name": "assctl",
+                    "route": "/analyse/assctl",
+                    "zh": {
+                        "name": "资产管控"
+                    },
+                    "sel": "Y",
+                    "key": "assctl",
+                    "title": "资产管控",
+                    "children":[
+                        {
+                            "title":"可写",
+                            "key":"assctlwable",
+                            "sel": "Y"
+                        }
+                    ]
+                },
+                {
+                    "name": "ressta",
+                    "route": "/analyse/ressta",
+                    "zh": {
+                        "name": "资源统计"
+                    },
+                    "sel": "N",
+                    "key": "ressta",
+                    "title": "资源统计",
+                    "children":[
+                        {
+                            "title":"可写",
+                            "key":"resstawable",
+                            "sel": "N"
+                        }
+                    ]
+                }
+            ],
+            "sel": "N",
+            "key": "analyse",
+            "title": "集控分析"
+        },
+        {
+            "name": "resmngt",
+            "icon": "GlobalOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "资源管理"
+            },
+            "children": [
+                {
+                    "name": "baseconf",
+                    "route": "/resmngt/baseconf",
+                    "zh": {
+                        "name": "基础配置"
+                    },
+                    "sel": "N",
+                    "key": "baseconf",
+                    "title": "基础配置"
+                },
+                {
+                    "name": "addrplan",
+                    "route": "/resmngt/addrplan",
+                    "zh": {
+                        "name": "地址规划"
+                    },
+                    "sel": "N",
+                    "key": "addrplan",
+                    "title": "地址规划"
+                },
+                {
+                    "name": "snetconf",
+                    "route": "/resmngt/snetconf",
+                    "zh": {
+                        "name": "子网配置"
+                    },
+                    "sel": "N",
+                    "key": "snetconf",
+                    "title": "子网配置"
+                },
+                {
+                    "name": "addrallc",
+                    "route": "/resmngt/addrallc",
+                    "zh": {
+                        "name": "地址分配"
+                    },
+                    "sel": "N",
+                    "key": "addrallc",
+                    "title": "地址分配"
+                },
+                {
+                    "name": "resapply",
+                    "route": "/resmngt/resapply",
+                    "zh": {
+                        "name": "资源申请"
+                    },
+                    "sel": "N",
+                    "key": "resapply",
+                    "title": "资源申请"
+                },
+                {
+                    "name": "approval",
+                    "route": "/resmngt/approval",
+                    "zh": {
+                        "name": "资源审批"
+                    },
+                    "sel": "N",
+                    "key": "approval",
+                    "title": "资源审批"
+                }
+            ],
+            "sel": "N",
+            "key": "resmngt",
+            "title": "资源管理"
+        },
+        {
+            "name": "mconfig",
+            "icon": "AppstoreOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "策略中心"
+            },
+            "children": [
+                {
+                    "name": "devices",
+                    "route": "/mconfig/devices",
+                    "zh": {
+                        "name": "级联设备"
+                    },
+                    "sel": "N",
+                    "key": "devices",
+                    "title": "级联设备"
+                },
+                {
+                    "name": "aptaddr",
+                    "route": "/mconfig/aptaddr",
+                    "zh": {
+                        "name": "恶意地址"
+                    },
+                    "sel": "N",
+                    "key": "aptaddr",
+                    "title": "恶意地址"
+                },
+                {
+                    "name": "blklist",
+                    "route": "/mconfig/blklist",
+                    "zh": {
+                        "name": "黑名地址"
+                    },
+                    "sel": "N",
+                    "key": "blklist",
+                    "title": "黑名地址"
+                },
+                {
+                    "name": "whtlist",
+                    "route": "/mconfig/whtlist",
+                    "zh": {
+                        "name": "白名地址"
+                    },
+                    "sel": "N",
+                    "key": "whtlist",
+                    "title": "白名地址"
+                }
+            ],
+            "sel": "N",
+            "key": "mconfig",
+            "title": "策略中心"
+        },
+        {
+            "name": "logmngt",
+            "icon": "AlertOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "事件日志"
+            },
+            "children": [
+                {
+                    "name": "report",
+                    "route": "/logmngt/report",
+                    "zh": {
+                        "name": "上报配置"
+                    },
+                    "sel": "N",
+                    "key": "report",
+                    "title": "上报配置"
+                },
+                {
+                    "name": "device",
+                    "route": "/logmngt/device",
+                    "zh": {
+                        "name": "设备日志"
+                    },
+                    "sel": "N",
+                    "key": "device",
+                    "title": "设备日志"
+                },
+                {
+                    "name": "policy",
+                    "route": "/logmngt/policy",
+                    "zh": {
+                        "name": "策略日志"
+                    },
+                    "sel": "N",
+                    "key": "policy",
+                    "title": "策略日志"
+                },
+                {
+                    "name": "devctl",
+                    "route": "/logmngt/devctl",
+                    "zh": {
+                        "name": "管控日志"
+                    },
+                    "sel": "N",
+                    "key": "devctl",
+                    "title": "管控日志"
+                },
+                {
+                    "name": "dstaut",
+                    "route": "/logmngt/dstaut",
+                    "zh": {
+                        "name": "目标审计"
+                    },
+                    "sel": "N",
+                    "key": "dstaut",
+                    "title": "目标审计"
+                }
+            ],
+            "sel": "N",
+            "key": "logmngt",
+            "title": "事件日志"
+        },
+        {
+            "name": "sysconf",
+            "icon": "SettingOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "系统配置"
+            },
+            "children": [
+                {
+                    "name": "adminacc",
+                    "route": "/sysconf/adminacc",
+                    "zh": {
+                        "name": "管理员账号"
+                    },
+                    "sel": "N",
+                    "key": "adminacc",
+                    "title": "管理员账号"
+                },
+                {
+                    "name": "network",
+                    "route": "/sysconf/network",
+                    "zh": {
+                        "name": "网络设置"
+                    },
+                    "sel": "N",
+                    "key": "network",
+                    "title": "网络设置"
+                },
+                {
+                    "name": "systime",
+                    "route": "/sysconf/systime",
+                    "zh": {
+                        "name": "系统时间"
+                    },
+                    "sel": "N",
+                    "key": "systime",
+                    "title": "系统时间"
+                },
+                {
+                    "name": "sysserv",
+                    "route": "/sysconf/sysserv",
+                    "zh": {
+                        "name": "系统服务"
+                    },
+                    "sel": "N",
+                    "key": "sysserv",
+                    "title": "系统服务"
+                },
+                {
+                    "name": "syszone",
+                    "route": "/sysconf/syszone",
+                    "zh": {
+                        "name": "区域配置"
+                    },
+                    "sel": "N",
+                    "key": "syszone",
+                    "title": "区域配置"
+                },
+                {
+                    "name": "apiauth",
+                    "route": "/sysconf/apiauth",
+                    "zh": {
+                        "name": "接口授权"
+                    },
+                    "sel": "N",
+                    "key": "apiauth",
+                    "title": "接口授权"
+                }
+            ],
+            "sel": "N",
+            "key": "sysconf",
+            "title": "系统配置"
+        },
+        {
+            "name": "sysmain",
+            "icon": "ToolOutlined",
+            "route": "/index/index",
+            "zh": {
+                "name": "系统维护"
+            },
+            "children": [
+                {
+                    "name": "status",
+                    "route": "/sysmain/status",
+                    "zh": {
+                        "name": "系统状态"
+                    },
+                    "sel": "N",
+                    "key": "status",
+                    "title": "系统状态"
+                },
+                {
+                    "name": "update",
+                    "route": "/sysmain/update",
+                    "zh": {
+                        "name": "系统升级"
+                    },
+                    "sel": "N",
+                    "key": "update",
+                    "title": "系统升级"
+                }
+            ],
+            "sel": "N",
+            "key": "sysmain",
+            "title": "系统维护"
+        }
+    ]
+}

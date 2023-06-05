@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "data": [
+    { "id": 1, "name": "console", "show": "Y" },
+    {
+      "id": 2,
+      "name": "export",
+      "show": "Y",
+      "child": [{ "name": "agtlog", "show": "Y", "title": "x" }]
+    },
+    { "id": 3, "name": "remote", "show": "Y" },
+    { "id": 4, "name": "ntpcap", "show": "Y" }
+  ]
+}

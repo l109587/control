@@ -1,0 +1,164 @@
+{
+   "success": true,
+   "total": 4,
+   "data": [
+      {
+         "id": 1,
+         "status": "Y",
+         "name": "一个全监测任务",
+         "iprange": "192.168.12.0/24;192.168.134.0/24",
+         "port": 0,
+         "schedule": 1,
+         "completed": 5,
+         "children": [
+            {
+               "pid": "1",
+               "pName": "一个全监测任务",
+               "type": "outline",
+               "state": "Y",
+               "schedule": 50,
+               "completed": 1
+            },
+            {
+               "pid": "2",
+               "pName": "一个全监测任务",
+               "type": "vioSrv",
+               "state": "Y",
+               "progress": 100,
+               "schedule": 100,
+               "completed": 2
+            },
+            {
+               "pid": "3",
+               "name": "一个全监测任务",
+               "type": "vioDev",
+               "state": "N",
+               "progress": 80,
+               "schedule": 80,
+               "completed": 2
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "status": "Y",
+         "name": "一个外联监测任务",
+         "iprange": "192.168.12.0/24",
+         "port": 1,
+         "schedule": 2,
+         "completed": 5,
+         "children": [
+            {
+               "pid": "4",
+               "pName": "一个全监测任务",
+               "type": "outline",
+               "state": "N",
+               "schedule": 50,
+               "completed": 1
+            },
+            {
+               "pid": "5",
+               "pName": "一个全监测任务",
+               "type": "vioSrv",
+               "state": "Y",
+               "progress": 100,
+               "schedule": 100,
+               "completed": 2
+            },
+            {
+               "pid": "6",
+               "name": "一个全监测任务",
+               "type": "vioDev",
+               "state": "N",
+               "progress": 80,
+               "schedule": 80,
+               "completed": 2
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "status": "Y",
+         "name": "一个外联监测任务",
+         "iprange": "192.168.12.0/24",
+         "port": 1,
+         "schedule": 2,
+         "completed": 5,
+         "children": [
+            {
+               "pid": "4",
+               "pName": "一个全监测任务",
+               "type": "outline",
+               "state": "N",
+               "schedule": 50,
+               "completed": 1
+            },
+            {
+               "pid": "5",
+               "pName": "一个全监测任务",
+               "type": "vioSrv",
+               "state": "Y",
+               "progress": 100,
+               "schedule": 100,
+               "completed": 2
+            },
+            {
+               "pid": "6",
+               "name": "一个全监测任务",
+               "type": "vioDev",
+               "state": "N",
+               "progress": 80,
+               "schedule": 80,
+               "completed": 2
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "status": "Y",
+         "name": "一个外联监测任务",
+         "iprange": "192.168.12.0/24",
+         "port": 1,
+         "schedule": 2,
+         "completed": 5,
+         "children": [
+            {
+               "pid": "4",
+               "pName": "一个全监测任务",
+               "type": "outline",
+               "state": "N",
+               "schedule": 50,
+               "completed": 1
+            },
+            {
+               "pid": "5",
+               "pName": "一个全监测任务",
+               "type": "vioSrv",
+               "state": "Y",
+               "progress": 100,
+               "schedule": 100,
+               "completed": 2
+            },
+            {
+               "pid": "6",
+               "name": "一个全监测任务",
+               "type": "vioDev",
+               "state": "N",
+               "progress": 80,
+               "schedule": 80,
+               "completed": 2
+            }
+         ]
+      },
+      {
+         "id": 5,
+         "status": "N",
+         "name": "一个外联监测任务",
+         "iprange": "192.168.12.0/24",
+         "port": 1,
+         "schedule": 3,
+         "completed": 5,
+         "children": []
+      }
+   ]
+}

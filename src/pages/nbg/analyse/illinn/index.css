@@ -1,0 +1,13 @@
+.cardtitle {
+  font-size: 16px;
+  color: #101010;
+}
+.mailpie .g2-html-annotation {
+  display: none !important;
+}
+.netinpie .g2-html-annotation {
+  display: none !important;
+}
+.nmilcard .ant-pro-card-statistic-layout-inline {
+  color: black !important;
+}

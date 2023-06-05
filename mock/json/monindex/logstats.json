@@ -1,0 +1,26 @@
+{
+	"success": true,
+	"nums": 3,
+	"data": [
+		{
+			"type": "assets",
+			"name": "资产数量",
+			"value": "3456"
+		},
+		{
+			"type": "illinn",
+			"name": "违规内联",
+			"value": "123"
+		},
+		{
+			"type": "illsvr",
+			"name": "违规服务",
+			"value": "3456"
+		},
+		{
+			"type": "series",
+			"name": "网络串线",
+			"value": "3456"
+		}
+	]
+}

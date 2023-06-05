@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "total": 3,
+  "data": [
+    {
+      "filterName": "type",
+      "count": 4,
+      "info": [
+        {
+          "id": 0,
+          "text": "PC计算机"
+        },
+        {
+          "id": 1,
+          "text": "交换机"
+        },
+        {
+          "id": 2,
+          "text": "网络设备"
+        },
+        {
+          "id": 3,
+          "text": "网络准入"
+        }
+      ]
+    },
+    {
+      "filterName": "os",
+      "count": 4,
+      "info": [
+        {
+          "id": 0,
+          "text": "Windows"
+        },
+        {
+          "id": 1,
+          "text": "Linux"
+        },
+        {
+          "id": 2,
+          "text": "Cisco IOS"
+        },
+        {
+          "id": 3,
+          "text": "Ubuntu"
+        }
+      ]
+    },
+    {
+      "filterName": "online",
+      "count": 2,
+      "info": [
+        {
+          "id": 1,
+          "text": "在线"
+        },
+        {
+          "id": 0,
+          "text": "离线"
+        }
+      ]
+    }
+  ]
+}

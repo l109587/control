@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "name": "alarm",
+      "title": "攻击窃密监测",
+      "submodules": [
+        { "name": "trojan", "title": "子模块1" },
+        { "name": "attack", "title": "子模块2" }
+      ]
+    },
+    {
+      "name": "sensitive",
+      "title": "告警",
+      "submodules": [
+        { "name": "finger_file", "title": "子模块3" },
+        { "name": "sensitive_file", "title": "子模块4" }
+      ]
+    },
+    {
+      "name": "sensitivess",
+      "title": "攻击窃密监测2",
+      "submodules": [
+        { "name": "sdfs", "title": "子模块5" },
+        { "name": "sdfsdf", "title": "子模块6" }
+      ]
+    }
+  ]
+}

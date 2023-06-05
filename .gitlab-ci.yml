@@ -1,0 +1,90 @@
+before_script:
+  - echo "Start pipelines"
+
+# 定义变量
+variables:
+  # 部署的服务器
+  deployServer: root@192.168.12.157
+  # 部署的服务器位置（相对ssh 根路径）
+  deployDirectory: /home/www/
+  # 测试环境地址
+  deployWebUrl: http://192.168.12.157
+  # npm 源地址
+  npmRegistry: http://192.168.21.210:8118/repository/v-npm/ #http://192.168.21.210:4873
+  # node_modules 版本
+  node_modules_ver: 'nm-starter-web-1.0.0' # node_modules版本号，每次升级依赖改一下这里的数值
+  CURRENT_BRANCH: $CI_COMMIT_REF_NAME
+
+# 定义阶段 stages
+stages:
+  - build
+
+.install-job:
+  before_script:
+    - echo "Start install job"
+  stage: init
+  cache:
+    key: '$node_modules_ver'
+    paths:
+      - node_modules/
+  script:
+    - echo "NPM=$npmRegistry"
+    - npm config set registry $npmRegistry
+    - npm install --legacy-peer-deps #--silent
+  after_script:
+    - echo "End of install"
+
+# 定义 job - build 项目
+build-job:
+  before_script:
+    - echo "Start build job"
+  stage: build
+  script:
+    - echo "build .........."
+    - npm config set registry $npmRegistry
+    - npm install --legacy-peer-deps #--silent
+    - npm run build
+  cache:
+    key: '$node_modules_ver'
+    policy: pull
+    paths:
+      - node_modules/
+
+  after_script:
+    - echo "End of build"
+  artifacts:
+    expire_in: 1 week
+    paths:
+      - dist/
+
+.test-job:
+  before_script:
+    - echo "Start test job"
+  stage: test
+  tags:
+    - vue
+  script:
+    - echo "test.........."
+  after_script:
+    - echo "End of test"
+
+# 定义个部署作业
+.deploy-job:
+  before_script:
+    - echo "Start deploy job"
+  stage: deploy
+  dependencies:
+    - build-job
+  script:
+    - echo "deploy.........."
+    - export SSHPASS=$USER_PASS
+    - sshpass -e scp -o stricthostkeychecking=no -r dist/* $deployServer':'$deployDirectory
+
+  environment:
+    name: staging
+    url: $deployWebUrl
+  after_script:
+    - echo "End of deploy"
+
+after_script:
+  - echo "End of pipelines"

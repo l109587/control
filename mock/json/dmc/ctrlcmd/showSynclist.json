@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "total":5,
+  "data": [
+    {
+      "select": "Y",
+      "devid": "220409012001",
+      "ip": "192.168.12.100",
+      "name": "4",
+      "isOnline": "0",
+      "division": "北京市-市辖区-海淀区"
+    },
+    {
+      "select": "Y",
+      "devid": "2201",
+      "ip": "192.168.12.100",
+      "name": "4",
+      "isOnline": "0",
+      "division": "北京市-市辖区-海淀区"
+    },
+    {
+      "select": "Y",
+      "devid": "22001",
+      "ip": "192.168.12.100",
+      "name": "4",
+      "isOnline": "0",
+      "division": "北京市-市辖区-海淀区"
+    },
+    {
+      "select": "Y",
+      "devid": "2204090001",
+      "ip": "192.168.12.100",
+      "name": "4",
+      "isOnline": "0",
+      "division": "北京市-市辖区-海淀区"
+    },
+    {
+      "select": "Y",
+      "devid": "2204092001",
+      "ip": "192.168.12.100",
+      "name": "4",
+      "isOnline": "0",
+      "division": "北京市-市辖区-海淀区"
+    }
+  ]
+}

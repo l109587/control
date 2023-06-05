@@ -1,0 +1,12 @@
+{
+	"success":true,
+	"total":"1",
+	"data":[
+		{
+			"ipaddr":"192.168.12.52",
+			"subNetaddr":"192.168.12.0",
+			"maskSize":"24",
+			"validType": "forever"
+		}
+	]
+}

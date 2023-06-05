@@ -1,0 +1,26 @@
+{
+	"success": true,
+	"title": "应用协议统计",
+	"data": [
+		{
+			"type": "SSL加密协议",
+			"value": 26221,
+			"other": false
+		},
+		{
+			"type": "其他协议",
+			"value": 838875,
+			"other": true
+		},
+		{
+			"type": "HTTP协议",
+			"value": 28947,
+			"other": false
+		},
+		{
+			"type": "域名解析协议",
+			"value": 85133,
+			"other": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"success": true,
+	"ipv4": {
+		"title": "IPv4报文",
+		"subtitle": "最近10分钟",
+		"value": "9192",
+		"label": "报文数",
+		"unit": "K",
+		"bar": [
+			{
+				"value": 4692
+			},
+            {
+				"value": 2132
+			},
+            {
+				"value": 6
+			},
+            {
+				"value": 4564
+			},
+            {
+				"value": 45645
+			}
+		]
+	},
+	"ipv6": {
+		"title": "IPv6报文",
+		"subtitle": "最近10分钟",
+		"value": "10,731",
+		"label": "报文数",
+		"unit": "",
+		"bar": [
+			{
+				"value": 2342
+			},
+            {
+				"value": 23425
+			},
+            {
+				"value": 234
+			},
+            {
+				"value": 234
+			},
+            {
+				"value": 4692
+			}
+		]
+	},
+	"tcp": {
+		"title": "TCP报文",
+		"subtitle": "最近10分钟",
+		"value": "8283",
+		"label": "报文数",
+		"unit": "K",
+		"bar": [
+			{
+				"value": 3995
+			},
+            {
+				"value": 4692
+			},
+            {
+				"value": 4692
+			},
+            {
+				"value": 6456
+			},
+            {
+				"value": 44
+			}
+		]
+	},
+	"udp": {
+		"title": "UDP报文",
+		"subtitle": "最近10分钟",
+		"value": "331,158",
+		"label": "报文数",
+		"unit": "",
+		"bar": [
+			{
+				"value": 239
+			},
+            {
+				"value": 4
+			},
+            {
+				"value": 456
+			},
+            {
+				"value": 4692
+			},
+            {
+				"value": 555
+			}
+		]
+	}
+}

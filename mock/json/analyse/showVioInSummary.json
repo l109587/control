@@ -1,0 +1,12 @@
+{
+	"success": true,
+	"totalChk": 4345,
+	"multiCard": {
+		"count":  3000,
+		"percent": 0.69
+	},
+	"netIn": {
+		"count": 1345,
+		"percent":0.31
+	}
+}

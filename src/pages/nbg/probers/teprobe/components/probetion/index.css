@@ -1,0 +1,49 @@
+.probrform {
+  width: 900px;
+}
+.textual {
+  position: relative;
+  left: 1%;
+  top: -10px;
+  color: #999;
+  font-size: 12px;
+}
+.ant-pro-card-body-direction-column {
+  margin-left: 5.5;
+}
+.probedivider {
+  margin-left: 10px;
+}
+.probealert {
+  margin-left: 10px;
+}
+.timeAfter {
+  border: 1px solid #f3efefe8;
+  background-color: #F5F7FA;
+  width: 40px;
+  height: 32px;
+  line-height: 29px;
+  text-align: center;
+  padding: 0;
+}
+.probrform .ant-form-item-control > div div:nth-child(2) {
+  margin-left: 0 !important;
+}
+.probedivider {
+  margin-bottom: 0 !important;
+}
+.probetiontable .ant-pro-table-list-toolbar-container {
+  height: 50px !important;
+}
+.probrform .exceptext .ant-col-sm-4 .ant-form-item-control-input {
+  width: 320px;
+}
+.publishtext {
+  color: #FF0000 !important;
+}
+.probetiontable .ant-pro-card-body {
+  padding: 0;
+}
+.probetiontable {
+  padding-top: 15px;
+}

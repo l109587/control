@@ -1,0 +1,95 @@
+{
+  "title": "监测统计",
+  "musers": {
+    "name": "活跃用户数",
+    "value": 3
+  },
+  "mreport": {
+    "name": "上报次数",
+    "value": 12333
+  },
+  "malarm": {
+    "name": "报警次数",
+    "value": 1
+  },
+  "nameline": "上报数量",
+  "namecol": "违规外联数数量",
+  "count": 30,
+  "lines": [
+    {
+      "time": "2月1日",
+      "valueline": 120,
+      "valuecol": 100
+    },
+    {
+      "time": "2月2日",
+      "valueline": 160,
+      "valuecol": 80
+    },
+    {
+      "time": "2月3日",
+      "valueline": 150,
+      "valuecol": 90
+    },
+    {
+      "time": "2月4日",
+      "valueline": 200,
+      "valuecol": 160
+    },
+    {
+      "time": "2月5日",
+      "valueline": 340,
+      "valuecol": 460
+    },
+    {
+      "time": "2月6日",
+      "valueline": 500,
+      "valuecol": 360
+    },
+    {
+      "time": "2月7日",
+      "valueline": 350,
+      "valuecol": 600
+    },
+    {
+      "time": "2月8日",
+      "valueline": 560,
+      "valuecol": 320
+    },
+    {
+      "time": "2月9日",
+      "valueline": 620,
+      "valuecol": 450
+    },
+    {
+      "time": "2月10日",
+      "valueline": 628,
+      "valuecol": 410
+    },
+    {
+      "time": "2月11日",
+      "valueline": 500,
+      "valuecol": 300
+    },
+    {
+      "time": "2月12日",
+      "valueline": 680,
+      "valuecol": 350
+    },
+    {
+      "time": "2月13日",
+      "valueline": 750,
+      "valuecol": 560
+    },
+    {
+      "time": "2月14日",
+      "valueline": 700,
+      "valuecol": 380
+    },
+    {
+      "time": "2月15日",
+      "valueline": 600,
+      "valuecol": 420
+    }
+  ]
+}

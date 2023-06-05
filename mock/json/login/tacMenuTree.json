@@ -1,0 +1,365 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "index",
+      "icon": "HomeOutlined",
+      "route": "/index/tac",
+      "zh": {
+        "name": "首页"
+      }
+    },
+    {
+      "name": "central",
+      "icon": "Analysis",
+      "route": "/index/tac",
+      "zh": {
+        "name": "集控分析"
+      },
+      "children": [
+        {
+          "name": "assets",
+          "route": "/central/assets",
+          "zh": { "name": "资产信息" }
+        },
+        {
+          "name": "assctl",
+          "route": "/central/assctl",
+          "zh": { "name": "资产管控" }
+        },
+        {
+          "name": "ressta",
+          "route": "/central/ressta",
+          "zh": { "name": "资源统计" }
+        }
+      ]
+    },
+    {
+      "name": "cfgmngt",
+      "icon": "GlobalOutlined",
+      "route": "/cfgmngt/usersync",
+      "zh": {
+        "name": "配置管理"
+      },
+      "children": [
+        {
+          "name": "cascdevc",
+          "route": "/cfgmngt/cascdevc",
+          "zh": { "name": "级联设备" }
+        },
+        {
+          "name": "cfgmngt",
+          "route": "/cfgmngt/baseconf",
+          "zh": {
+            "name": "字段配置"
+          }
+        },
+        {
+          "name": "cfgmngt",
+          "route": "/cfgmngt/deptsync",
+          "zh": {
+            "name": "组织同步"
+          }
+        },
+        {
+          "name": "cfgmngt",
+          "route": "/cfgmngt/zoneconf",
+          "zh": {
+            "name": "区域配置"
+          }
+        },
+        {
+          "name": "cfgmngt",
+          "route": "/cfgmngt/userlist",
+          "zh": {
+            "name": "用户列表"
+          }
+        },
+        {
+            "name": "cfgmngt",
+            "route": "/cfgmngt/signature",
+            "zh": {
+              "name": "签章流程"
+            }
+          }
+      ]
+    },
+    {
+      "name": "assmngt",
+      "icon": "GlobalOutlined",
+      "route": "/assmngt/assinput",
+      "zh": {
+        "name": "资产管理"
+      },
+      "children": [
+        {
+          "name": "assinput",
+          "route": "/assmngt/assinput",
+          "zh": {
+            "name": "资产录入"
+          }
+        },
+        {
+          "name": "assinput",
+          "route": "/assmngt/assapply",
+          "zh": {
+            "name": "资产申请"
+          }
+        },
+        {
+          "name": "assinput",
+          "route": "/assmngt/approval",
+          "zh": {
+            "name": "资产审批"
+          }
+        }
+      ]
+    },
+    {
+        "name": "resmngt",
+        "icon": "GlobalOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "资源管理"
+        },
+        "children": [
+            {
+                "name": "addrplan",
+                "route": "/resmngt/addrplan",
+                "zh": {
+                    "name": "地址规划"
+                }
+            },
+            {
+                "name": "snetconf",
+                "route": "/resmngt/snetconf",
+                "zh": {
+                    "name": "子网配置"
+                }
+            },
+            {
+                "name": "addrallc",
+                "route": "/resmngt/addrallc",
+                "zh": {
+                    "name": "地址分配"
+                }
+            },
+            {
+                "name": "resapply",
+                "route": "/resmngt/resapply",
+                "zh": {
+                    "name": "资源申请"
+                }
+            },
+            {
+                "name": "approval",
+                "route": "/resmngt/approval",
+                "zh": {
+                    "name": "资源审批"
+                }
+            }
+        ]
+    },
+    {
+        "name": "mconfig",
+        "icon": "AppstoreOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "策略中心"
+        },
+        "children": [
+            {
+                "name": "aptaddr",
+                "route": "/mconfig/aptaddr",
+                "zh": {
+                    "name": "恶意地址"
+                }
+            },
+            {
+                "name": "blklist",
+                "route": "/mconfig/blklist",
+                "zh": {
+                    "name": "黑名地址"
+                }
+            },
+            {
+                "name": "whtlist",
+                "route": "/mconfig/whtlist",
+                "zh": {
+                    "name": "白名地址"
+                }
+            }
+        ]
+    },
+    {
+        "name": "logmngt",
+        "icon": "AlertOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "事件日志"
+        },
+        "children": [
+            {
+                "name": "report",
+                "route": "/logmngt/report",
+                "zh": {
+                    "name": "上报配置"
+                }
+            },
+            {
+                "name": "device",
+                "route": "/logmngt/device",
+                "zh": {
+                    "name": "设备日志"
+                }
+            },
+            {
+                "name": "policy",
+                "route": "/logmngt/policy",
+                "zh": {
+                    "name": "策略日志"
+                }
+            },
+            {
+                "name": "devctl",
+                "route": "/logmngt/devctl",
+                "zh": {
+                    "name": "管控日志"
+                }
+            },
+            {
+                "name": "dstaut",
+                "route": "/logmngt/dstaut",
+                "zh": {
+                    "name": "目标审计"
+                }
+            }
+        ]
+    },
+    {
+        "name": "sysconf",
+        "icon": "SettingOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "系统配置"
+        },
+        "children": [
+            {
+                "name": "adminacc",
+                "route": "/sysconf/adminacc",
+                "zh": {
+                    "name": "管理员账号"
+                }
+            },
+            {
+                "name": "network",
+                "route": "/sysconf/network",
+                "zh": {
+                    "name": "网络设置"
+                }
+            },
+            {
+                "name": "systime",
+                "route": "/sysconf/systime",
+                "zh": {
+                    "name": "系统时间"
+                }
+            },
+            {
+                "name": "sysserv",
+                "route": "/sysconf/sysserv",
+                "zh": {
+                    "name": "系统服务"
+                }
+            },
+            {
+                "name": "apiauth",
+                "route": "/sysconf/apiauth",
+                "zh": {
+                    "name": "接口授权"
+                }
+            },
+            {
+                "name": "sysmenu",
+                "route": "/sysconf/sysmenu",
+                "zh": {
+                    "name": "菜单权限"
+                }
+            },
+            {
+                "name": "ecustom",
+                "route": "/sysconf/ecustom",
+                "zh": {
+                    "name": "企业定制"
+                }
+            },
+            {
+                "name": "deployd",
+                "route": "/sysconf/deployd",
+                "zh": {
+                    "name": "部署配置"
+                }
+            },
+            {
+                "name": "adminset",
+                "route": "/sysconf/adminset",
+                "zh": {
+                    "name": "管理员设置"
+                }
+            }
+        ]
+    },
+    {
+        "name": "sysmain",
+        "icon": "ToolOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "系统维护"
+        },
+        "children": [
+            {
+                "name": "mtacfg",
+                "route": "/sysmain/mtacfg",
+                "zh": {
+                    "name": "配置维护"
+                }
+            },
+            {
+                "name": "status",
+                "route": "/sysmain/status",
+                "zh": {
+                    "name": "系统状态"
+                }
+            },
+            {
+                "name": "update",
+                "route": "/sysmain/update",
+                "zh": {
+                    "name": "系统升级"
+                }
+            },
+            {
+                "name": "mtadat",
+                "route": "/sysmain/mtadat",
+                "zh": {
+                    "name": "数据维护"
+                }
+            },
+            {
+                "name": "mtalog",
+                "route": "/sysmain/mtalog",
+                "zh": {
+                    "name": "日志维护"
+                }
+            },
+            {
+                "name": "remote",
+                "route": "/sysmain/remote",
+                "zh": {
+                    "name": "系统调试"
+                }
+            }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "vioInfo": ["vioOutline", "vioServer", "vioDevice"],
+  "netRange": [
+    {
+      "id": 0,
+      "vlanID": "1024",
+      "netAddr": "10.0.0.1",
+      "netMask": "24"
+    },
+    {
+      "id": 1,
+      "vlanID": "1024",
+      "netAddr": "10.0.0.1",
+      "netMask": "24"
+    }
+  ]
+}

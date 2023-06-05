@@ -1,0 +1,60 @@
+.srvcard {
+  display: flex;
+}
+.svrcontent {
+  padding: 0 15px;
+  width: 100%;
+}
+.svrtop {
+  height: 40px;
+  line-height: 40px;
+}
+.mitytitle {
+  font-size: 18px;
+  color: #FAAD15;
+  font-weight: 500;
+  height: 40px;
+}
+.svrbot {
+  width: 100%;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+}
+.svrtext {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.svrvalue {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 500;
+}
+.brokertitle {
+  font-size: 18px;
+  color: #BD3214;
+  font-weight: 500;
+  height: 40px;
+}
+.remotetitle {
+  font-size: 18px;
+  color: #FF7429;
+  font-weight: 500;
+  height: 40px;
+}
+.addrtitle {
+  font-size: 18px;
+  color: #79B8F3;
+  font-weight: 500;
+  height: 40px;
+}
+.infostyle {
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
+.infotext {
+  margin-bottom: 2px;
+}

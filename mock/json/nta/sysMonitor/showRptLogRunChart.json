@@ -1,0 +1,39 @@
+{
+	"success": true,
+	"title": "最近1天日志产生趋势图",
+	"xstep": 12,
+	"count": 144,
+	"field": "条目数",
+	"lines": [
+		{
+			"name": "totcnt",
+			"time": "02-09 00:00",
+			"value": 0
+		},
+		{
+			"name": "totcnt",
+			"time": "02-09 04:00",
+			"value": 63507
+		},
+		{
+			"name": "totcnt",
+			"time": "02-09 08:00",
+			"value": 6920
+		},
+		{
+			"name": "totcnt",
+			"time": "02-09 12:00",
+			"value": 69220
+		},
+		{
+			"name": "totcnt",
+			"time": "02-09 16:00",
+			"value": 62320
+		},
+		{
+			"name": "totcnt",
+			"time": "02-09 20:00",
+			"value": 6999
+		}
+]
+}

@@ -1,0 +1,285 @@
+{
+    "success":true,
+    "template": {
+      "title": "资产入网申请表",
+      "name": "张三",
+      "dateTime": "2022-2-2",
+      "upData": [
+        {
+          "id": "001",
+          "title": "申请单位",
+          "children": [
+            { "key": "company", "id": "11", "value": "", "valueColSpan": 5 }
+          ],
+          "rowSpan": 1
+        },
+        {
+          "id": "002",
+          "title": "设备人使用信息",
+          "children": [
+            {
+              "key": "user",
+              "id": "22",
+              "title": "使用人",
+              "titleColSpan": 1,
+              "value": "",
+              "valueColSpan": 1
+            },
+            {
+              "id": "33",
+              "key": "org",
+              "title": "所在机构",
+              "colSpan": 1,
+              "value": "",
+              "valueColSpan": 2
+            }
+          ],
+          "rowSpan": 3
+        },
+        {
+          "id": "003",
+          "title": "",
+          "children": [
+            {
+              "id": "44",
+              "key": "phone",
+              "title": "联系电话",
+              "titleColSpan": 1,
+              "value": "",
+              "valueColSpan": 1
+            },
+            {
+              "id": "55",
+              "key": "field3",
+              "title": "身份证号",
+              "titleColSpan": 1,
+              "value": "",
+              "valueColSpan": 2
+            }
+          ],
+          "rowSpan": 1
+        },
+        {
+          "id": "0033",
+          "title": "",
+          "children": [
+            {
+              "id": "66",
+              "key": "position",
+              "title": "所在位置",
+              "titleColSpan": 1,
+              "value": "",
+              "valueColSpan": 4
+            }
+          ],
+          "rowSpan": 1
+        }
+      ],
+      "batchData":[
+        {
+          "id": "3.14",
+          "title": "设备信息",
+          "children": [
+            {
+              "id": "000001",
+              "key": "buisUsg",
+              "title": "业务用途",
+              "colSpan": 1
+            },
+            {
+              "id": "00002",
+              "key": "macaddr",
+              "title": "物理地址",
+              "colSpan": 1
+            },
+            {
+              "id": "00003",
+              "key": "model",
+              "title": "品牌型号",
+              "colSpan": 1
+            },
+            {
+              "id": "00004",
+              "key": "assetType",
+              "title": "设备类型",
+              "colSpan": 1
+            },
+            {
+              "id": "00005",
+              "key": "vlan",
+              "title": "所在VLAN",
+              "colSpan": 1
+            }
+          ],
+          "rowSpan": 5
+        },
+        {
+          "id": "010",
+          "title": "",
+          "children": [
+            {
+              "id": "0101",
+              "key": "buisUsg",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0102",
+              "key": "macaddr",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0103",
+              "key": "model",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0104",
+              "key": "assetType",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0105",
+              "key": "vlan",
+              "title": "",
+              "colSpan": 1
+            }
+          ],
+          "rowSpan": 1
+        },
+        {
+          "id": "011",
+          "title": "",
+          "children": [
+            {
+              "id": "0111",
+              "key": "buisUsg",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0112",
+              "key": "macaddr",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0113",
+              "key": "model",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0114",
+              "key": "assetType",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0105",
+              "key": "vlan",
+              "title": "",
+              "colSpan": 1
+            }
+          ],
+          "rowSpan": 1
+        },
+        {
+          "id": "012",
+          "title": "",
+          "children": [
+            {
+              "id": "0121",
+              "key": "buisUsg",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0122",
+              "key": "macaddr",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0123",
+              "key": "model",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0124",
+              "key": "assetType",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0105",
+              "key": "vlan",
+              "title": "",
+              "colSpan": 1
+            }
+          ],
+          "rowSpan": 1
+        },
+        {
+          "id": "013",
+          "title": "",
+          "children": [
+            {
+              "id": "0131",
+              "key": "buisUsg",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0132",
+              "key": "macaddr",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0133",
+              "key": "model",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0134",
+              "key": "assetType",
+              "title": "",
+              "colSpan": 1
+            },
+            {
+              "id": "0105",
+              "key": "vlan",
+              "title": "",
+              "colSpan": 1
+            }
+          ],
+          "rowSpan": 1
+        }
+      ],
+      "bottomData": [
+        {
+          "id": "122",
+          "title": "申请单位意见",
+          "date": "日期:",
+          "chapter": "(公章):",
+          "signName": "签字:",
+          "colSpan":5
+        },
+        {
+          "id": "1212323",
+          "title": "审批部门意见",
+          "date": "日期:",
+          "chapter": "(公章):",
+          "signName": "签字:",
+          "colSpan":5
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "applyInfo": {
+      "user": "张三",
+      "phone": "15112345678",
+      "zone": "北京市",
+      "org": "派出所A1",
+      "assetType": "PC",
+      "assetModel": "fd-ddo",
+      "macaddr": "00:0C:29:77:57:09",
+      "vlan": "12",
+      "location": "一楼",
+      "buisUsg": "PC"
+    },
+    "allocInfo": [
+      {
+        "ipaddr": "10.88.0.2",
+        "subnet": "10.88.0.1",
+        "maskSize": 24,
+        "validType": "forever/expire",
+        "expireTime": "0/2022-10-10 10:00:00"
+      },
+      {
+        "ipaddr": "10.88.0.3",
+        "subnet": "10.88.0.1",
+        "maskSize": 24,
+        "validType": "forever/expire",
+        "expireTime": "0/2022-10-10 10:00:00"
+      }
+    ],
+    "flowInfo": [
+      {
+        "admin": "xibeiwang",
+        "time": "2022-04-25 01:22:12",
+        "action": "submit",
+        "desc": "提交资产入网申请",
+        "result": "",
+        "notes": ""
+      },
+      {
+        "admin": "haidian",
+        "time": "2022-04-26 01:22:12",
+        "action": "approval",
+        "desc": "审批资产入网申请",
+        "result": "approved",
+        "notes": "同意"
+      }
+    ]
+  }
+}

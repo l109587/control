@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "status": "Y",
+  "data": [
+    {
+      "id": "1",
+      "iface": "mgt",
+      "name": "mgt-20220504.pcap",
+      "size": "32KB",
+      "count": "1000",
+      "progress": 30,
+      "state": "Y"
+    },
+    {
+      "id": "2",
+      "iface": "mgt",
+      "name": "mgt-20220504.pcap",
+      "size": "32KB",
+      "count": "1000",
+      "progress": 100,
+      "state": "N"
+    }
+  ]
+}

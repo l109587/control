@@ -1,0 +1,170 @@
+{
+  "success": true,
+  "title": "资源统计",
+  "total": 30000,
+  "name": "地址资源数量",
+  "count": 30,
+  "top": [
+    {
+      "id": 1,
+      "org": "慧谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    },
+    {
+      "org": "慧1谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    },{
+      "id": 1,
+      "org": "慧1谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    },
+    {
+      "id": 1,
+      "org": "慧1谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    },
+    {
+      "id": 1,
+      "org": "慧1谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    },
+    {
+      "id": 1,
+      "org": "慧1谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    },
+    {
+      "id": 1,
+      "org": "慧1谷",
+      "subnetNum": 2,
+      "ipaddrNum": 2000,
+      "allocNum": 1000
+    }
+  ],
+  "lines": [
+    {
+      "time": "01-01",
+      "used": 14,
+      "alloc": 14
+    },
+    {
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },
+    {
+      "time": "01-012",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-0132",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-102",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-202",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-302",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },{
+      "time": "01-02",
+      "used": 14,
+      "alloc": 14
+    },
+    {
+      "time": "01-03",
+      "used": 14,
+      "alloc": 14
+    }
+  ]
+}

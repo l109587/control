@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "id": "1",
+      "starttime": "2022-07-07 12:00:03",
+      "endtime": "2022-08-07 12:00:03",
+      "onlyid": "1123321",
+      "inip": "192.168.12.12",
+      "mac": "19:21:68:12:12:24",
+      "outip": "12.16.12.12",
+      "department": "西安市",
+      "username": "雁塔区",
+      "pcname": "PC-U",
+      "telnumber": "114",
+      "continuetime": "12345678",
+      "servername": "HTTP-SERV",
+      "servercode": "33321",
+      "diskid": "123332123"
+    }
+  ]
+}

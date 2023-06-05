@@ -1,0 +1,206 @@
+{
+  "title": "计算机终端设备退网申请表",
+  "name": "",
+  "dateTime": "",
+  "upData": [
+    {
+      "id": "001",
+      "title": "人员信息",
+      "children": [
+        {
+          "key": "company",
+          "id": "22",
+          "title": "申请单位",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "33",
+          "key": "user",
+          "title": "使用人",
+          "colSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 2
+    },
+    {
+      "id": "002",
+      "title": "",
+      "children": [
+        {
+          "id": "44",
+          "key": "mechanism",
+          "title": "所在机构",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "55",
+          "key": "phone",
+          "title": "联系电话",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "003",
+      "title": "设备信息",
+      "children": [
+        {
+          "id": "77",
+          "key": "location",
+          "title": "所在位置",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 4
+    },
+    {
+      "id": "004",
+      "title": "",
+      "children": [
+        {
+          "id": "99",
+          "key": "ip",
+          "title": "IP地址",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "100",
+          "key": "address",
+          "title": "物理地址",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "005",
+      "title": "",
+      "children": [
+        {
+          "id": "922",
+          "key": "purpose",
+          "title": "业务用途",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "130",
+          "key": "model",
+          "title": "品牌型号",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "00645466",
+      "title": "",
+      "children": [
+        {
+          "id": "3453453",
+          "key": "assetType",
+          "title": "设备类型",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "006",
+      "title": "注销信息",
+      "children": [
+        {
+          "key": "clear",
+          "id": "222342",
+          "title": "是否已清除敏感数据和文件",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "3323444",
+          "key": "uninstall",
+          "title": "是否已卸载应用软件及数据",
+          "colSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 3
+    },
+    {
+      "id": "007",
+      "title": "",
+      "children": [
+        {
+          "id": "9223545",
+          "key": "delete",
+          "title": "是否已删除IP和路由信息",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "130454",
+          "key": "remove",
+          "title": "是否已拆除相关硬件设备",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "008",
+      "title": "",
+      "children": [
+        {
+          "id": "23424",
+          "key": "logoutdes",
+          "title": "注销情况说明",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 1
+    }
+  ],
+  "bottomData": [
+    {
+      "id": "122",
+      "title": "申请单位意见",
+      "signName": "签字:",
+      "date": "日期:",
+      "chapter": "(公章):"
+    },
+    {
+      "id": "1212323",
+      "title": "审批部门意见",
+      "signName": "签字:",
+      "date": "日期:",
+      "chapter": "(公章):"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "minday": 5,
+  "period": 30,
+  "data": [
+    {
+      "name": "DataBackup20200523.tgz",
+      "size": "10KB",
+      "date": "2022-05-24 02:00:00"
+    },
+    {
+      "name": "DataBackup20200612.tgz",
+      "size": "10KB",
+      "date": "2022-05-24 02:00:00"
+    }
+  ]
+}

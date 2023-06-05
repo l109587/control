@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": [
+    {
+      "text": "本地认证账号",
+      "value": "local"
+    },
+    {
+      "text": "AD域认证账号",
+      "value": "ad"
+    },
+    {
+      "text": "LDAP认证账号",
+      "value": "ldap"
+    },
+    {
+      "text": "UKEY认证账号",
+      "value": "ukey"
+    }
+  ]
+}

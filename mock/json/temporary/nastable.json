@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "total": 2,
+  "data": [
+    {
+      "chap": "Y",
+      "id": "1015",
+      "md5": "N",
+      "name": "test1",
+      "note": "备注",
+      "pap": "Y",
+      "secret": "1234",
+      "swips": "192.168.134.1"
+    },
+    {
+      "chap": "N",
+      "id": "1016",
+      "md5": "N",
+      "name": "test2",
+      "note": "备注",
+      "pap": "Y",
+      "secret": "1234",
+      "swips": "192.168.134.2"
+    },
+    {
+      "chap": "Y",
+      "id": "1017",
+      "md5": "Y",
+      "name": "test3",
+      "note": "备注",
+      "pap": "N",
+      "secret": "1234",
+      "swips": "192.168.138.2"
+    }
+  ]
+}

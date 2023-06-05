@@ -1,0 +1,36 @@
+{
+    "success": true,
+    "data": {
+		"ipaddr": "192.168.12.52",
+        "recycleInfo": {
+            "zoneID": 1,
+            "zone": "北京市",
+			"fullZone": "派出所A1",
+            "orgID": 1,
+            "org": "派出所A1",
+			"fullOrg": "派出所A1",
+            "user": "张三",
+            "phone": "18234789704",
+            "buisUsg": "监控设备",
+            "mac": "1a:2b:3c:11:34:41"
+        },
+        "flowInfo": [
+			{
+				"admin": "xibeiwang",
+                "time": "2022-04-25 01:22:12",
+                "action": "submit",
+                "desc": "提交资源注销申请",
+				"result": "",
+                "notes": ""
+            },
+            {
+				"admin": "haidian",
+                "time": "2022-04-26 01:22:12",
+                "action": "approval",
+                "desc": "审批资源注销申请",
+				"result": "pass",
+                "notes": "同意"
+            }
+        ]
+    }
+}

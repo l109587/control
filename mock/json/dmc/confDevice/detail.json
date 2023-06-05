@@ -1,0 +1,116 @@
+{
+  "success": true,
+  "data": {
+    "enable": "Y",
+    "name": "测试1",
+    "device_id": "220409012001",
+    "type": "检测器",
+    "certsn": "010FB0FFAD9B7B9FB587245C3EECC0BDC58D8929",
+    "state": 0,
+    "model": "3000",
+    "zone": "",
+    "zone_id": 111,
+    "memo": "描述信息",
+    "interface": [
+      {
+        "ip": "192.168.11.100",
+        "netmask": 24,
+        "gateway": "192.168.11.1",
+        "manage": true
+      },
+      {
+        "ip": "192.168.88.100",
+        "netmask": 24,
+        "gateway": "192.168.88.1",
+        "manage": false
+      }
+    ],
+    "mem_total": 1223,
+    "cpu_info": [
+      {
+        "physical_id": 0,
+        "core": 4,
+        "clock": 1.8
+      },
+      {
+        "physical_id": 1,
+        "core": 2,
+        "clock": 2
+      }
+    ],
+    "disk_info": [
+      {
+        "size": 500,
+        "serial": "ST100NM001"
+      },
+      {
+        "size": 160,
+        "serial": "ST100NM002"
+      }
+    ],
+    "organs": "信息中心",
+    "address": "北京海淀复兴路 128号",
+    "address_code": "10000",
+    "contact": [
+      {
+        "name": "张三",
+        "position": "处长",
+        "email": "test@163.com",
+        "phone": "13232*****"
+      },
+      {
+        "name": "张四",
+        "position": "主任",
+        "email": "test@163.com",
+        "phone": "13232*****"
+      }
+    ],
+    "system_time": "2022-02-06 09:09:33",
+    "mem_status": "10%",
+    "did": 1,
+    "disk_status": "500 GB",
+    "cpu_status": "CPU1 40%, CPU2 20%",
+    "business_time": "2022-02-06 09:09:33",
+    "uptime": 1200,
+    "soft_version": "xxx",
+    "interface_status": [
+      {
+        "interface_seq": 1,
+        "interface_flag": "eth1",
+        "interface_stat": 1,
+        "interface_flow": "123 kbps",
+        "interface_error": 503,
+        "interface_drop": 111,
+        "duration_time": 60
+      },
+      {
+        "interface_seq": 2,
+        "interface_flag": "eth2",
+        "interface_stat": 1,
+        "interface_flow": "123 kbps",
+        "interface_error": 503,
+        "interface_drop": 111,
+        "duration_time": 60
+      }
+    ],
+    "suspected": [
+      {
+        "event_type": "",
+        "time": "",
+        "risk": "",
+        "msg": ""
+      }
+    ],
+    "module_status": [
+      {
+        "name": "net_aduit",
+        "status": "on",
+        "subname": "ip_listen",
+        "substatus": "on",
+        "record_delayednum": 123,
+        "file_delayednum": 100,
+        "version": 12412512321
+      }
+    ]
+  }
+}

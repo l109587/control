@@ -1,0 +1,44 @@
+{
+    "success": true,
+    "data": [
+        {
+            "name": "sysconf",
+            "icon": "SettingOutlined",
+            "zh": {
+                "name": "系统配置"
+            },
+            "children": [
+                {
+                    "name": "adminset",
+                    "route": "/sysconf/adminset",
+                    "zh": {
+                        "name": "管理员设置"
+                    }
+                },
+                {
+                    "name": "adminacc",
+                    "route": "/sysconf/adminacc",
+                    "zh": {
+                        "name": "管理员账号"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "sysmain",
+            "icon": "ToolOutlined",
+            "zh": {
+                "name": "系统维护"
+            },
+            "children": [
+                {
+                    "name": "admlog",
+                    "route": "/sysmain/admlog",
+                    "zh": {
+                        "name": "操作日志"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+.treecard>.ant-pro-card-body {
+  overflow-y: auto;
+}
+
+.treecardfront  {
+  transition: all 1s;
+  transform: translate(-238px,0px);
+}
+
+.treecard .ant-tree{
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+.treecard .ant-tree .ant-tree-node-content-wrapper{
+  white-space: nowrap;
+}
+
+.treecardmoveafter  {
+  transition: all 1s;
+  transform: translate(0px, 0px);
+}
+
+.zdislpayArrow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 0px;
+  height: 100%;
+  z-index: 10;
+  transition: all 0.2s ease 0s;
+}
+.zarrowfront {
+  right : 20px;
+}
+
+.zarrowafter {
+  right: 5px
+}
+
+.zdislpayArrow a {
+  background: url(../../../assets/tac/icon_arrow.png) no-repeat 0 0;
+  position: absolute;
+  display: block;
+  width: 17px;
+  height: 61px;
+  top: 50%;
+  margin-top: -30px;
+  outline: none;
+}
+
+.zarrowfront:hover {
+  right: 15px;
+}
+
+.zarrowafter:hover {
+  right: 0px;
+}
+
+.zdislpayArrow a.open {
+  background-position: 0 -61px;
+}
+
+.zdislpayArrow a:hover {
+  text-decoration: none;
+  background-position: right 0
+}
+
+.zdislpayArrow a.open:hover {
+  background-position: right -61px
+}
+
+.zdislpayArrow a.open {
+  background-position: 0 -61px;
+}
+
+.ztreecard .ant-menu-vertical {
+  border-right: 0px !important;
+}
+
+.ztreecard .ant-pro-card-title {
+  white-space: nowrap;
+}

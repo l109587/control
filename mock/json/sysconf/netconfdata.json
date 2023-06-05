@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "10",
+    "name": "mgt",
+    "status": "Y",
+    "type": "mgt",
+    "emac": "",
+    "ipv4": "192.168.12.157",
+    "mkv4": "255.255.255.0",
+    "gwv4": "192.168.12.1",
+    "gwv4mac": "",
+    "modev6": "dhcp",
+    "ipv6": "::",
+    "mkv6": "0",
+    "gwv6": "::"
+  }
+}

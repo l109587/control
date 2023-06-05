@@ -1,0 +1,14 @@
+{
+	"id":10,
+	"name":"石家庄",
+	"level":1,
+	"gpname":"/",
+	"gpid":1,
+    "leaf":"0",
+	"children":[
+		{"id":11,"name":"新华区","level":2,"gpname":"全国","gpid":"5","leaf":"0"},
+		{"id":12,"name":"桥西区","level":2,"gpname":"全国","gpid":"5","leaf":"0"},
+		{"id":13,"name":"长安区","level":2,"gpname":"全国","gpid":"5","leaf":"0"},
+		{"id":14,"name":"裕华区","level":2,"gpname":"全国","gpid":"5","leaf":"0"}
+	]	
+}

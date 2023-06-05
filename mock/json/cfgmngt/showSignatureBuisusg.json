@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "buisusg": ["办公设备", "终端设备"],
+  "sigNamelist": [
+    {
+      "value": "asset_entry",
+      "label": "资产录入申请"
+    },
+    {
+      "value": "asset_access",
+      "label": "资产入网申请"
+    },
+    {
+      "value": "asset_change",
+      "label": "资产变更申请"
+    },
+    {
+      "value": "asset_withdrawal",
+      "label": "资产退网申请"
+    }
+  ]
+}

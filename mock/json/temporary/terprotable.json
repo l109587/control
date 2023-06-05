@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "total": 3,
+    "data": [
+        {
+            "id": "1",
+            "mid": "101",
+            "state": "notMake",
+            "pkgName": "NBGAgent_v2.0.1.tgz",
+            "pkgMd5": "34dsgfawegq34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.1",
+            "installMd5": "23sdfwqt43we3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "2",
+            "mid": "102",
+            "state": "unPublished",
+            "pkgName": "NBGAgent_v2.0.2.tgz",
+            "pkgMd5": "34dsgfaw3w4r532q34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.2",
+            "installMd5": "23sd344wegge3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "3",
+            "mid": "103",
+            "state": "published",
+            "pkgName": "NBGAgent_v2.0.3.tgz",
+            "pkgMd5": "34dsgfwet34gq34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.3",
+            "installMd5": "23sdfw4rwf343we3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "4",
+            "mid": "104",
+            "state": "unPublished",
+            "pkgName": "NBGAgent_v2.0.2.tgz",
+            "pkgMd5": "34dsgfaw3w4r532q34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.2",
+            "installMd5": "23sd344wegge3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "5",
+            "mid": "105",
+            "state": "published",
+            "pkgName": "NBGAgent_v2.0.3.tgz",
+            "pkgMd5": "34dsgfwet34gq34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.3",
+            "installMd5": "23sdfw4rwf343we3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "6",
+            "mid": "106",
+            "state": "notMake",
+            "pkgName": "NBGAgent_v2.0.1.tgz",
+            "pkgMd5": "34dsgfawegq34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.1",
+            "installMd5": "23sdfwqt43we3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "7",
+            "mid": "107",
+            "state": "unPublished",
+            "pkgName": "NBGAgent_v2.0.2.tgz",
+            "pkgMd5": "34dsgfaw3w4r532q34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.2",
+            "installMd5": "23sd344wegge3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "8",
+            "mid": "108",
+            "state": "published",
+            "pkgName": "NBGAgent_v2.0.3.tgz",
+            "pkgMd5": "34dsgfwet34gq34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.3",
+            "installMd5": "23sdfw4rwf343we3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "9",
+            "mid": "109",
+            "state": "published",
+            "pkgName": "NBGAgent_v2.0.3.tgz",
+            "pkgMd5": "34dsgfwet34gq34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.3",
+            "installMd5": "23sdfw4rwf343we3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "10",
+            "mid": "110",
+            "state": "unPublished",
+            "pkgName": "NBGAgent_v2.0.2.tgz",
+            "pkgMd5": "34dsgfaw3w4r532q34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.2",
+            "installMd5": "23sd344wegge3ds34t",
+            "registerAddr": "192.168.12.12"
+        },
+        {
+            "id": "11",
+            "mid": "111",
+            "state": "unPublished",
+            "pkgName": "NBGAgent_v2.0.2.tgz",
+            "pkgMd5": "34dsgfaw3w4r532q34543",
+            "uploadTM": "2022-07-07 12:00:03",
+            "version": "v2.0.2",
+            "installMd5": "23sd344wegge3ds34t",
+            "registerAddr": "192.168.12.12"
+        }
+    ]
+}

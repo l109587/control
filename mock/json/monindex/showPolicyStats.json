@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "title": "策略统计",
+  "total": 3000,
+  "data": [
+    {
+      "type": "white",
+      "name": "白名单资产",
+      "value": 1000
+    },
+    {
+      "type": "black",
+      "name": "黑名单资产",
+      "value": 1000
+    },
+    {
+      "type": "noctrl",
+      "name": "不管控资产",
+      "value": 1000
+    }
+  ],
+  "lines": [
+    {
+      "name": "入网审核",
+      "value": 42122
+    },
+    {
+      "name": "身份认证",
+      "value": 22412
+    },
+    {
+      "name": "绑定检查",
+      "value": 52612
+    },
+    {
+      "name": "安全检查",
+      "value": 43212
+    },
+    {
+      "name": "注册策略",
+      "value": 43212
+    }
+  ]
+}

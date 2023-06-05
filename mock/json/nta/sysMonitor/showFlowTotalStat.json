@@ -1,0 +1,61 @@
+{
+	"success": true,
+	"bytes": {
+		"title": "总流量",
+		"subtitle": "最近10分钟",
+		"bytes": "773MB",
+		"pktscn": "报文总数",
+		"pktsval": "6,328,885",
+		"errscn": "异常报文",
+		"errsval": "28,514",
+		"lines": [
+			{
+				"name": "bytes",
+				"time": "16:33:00",
+				"value": 0
+			},
+			{
+				"name": "bytes2",
+				"time": "16:33:10",
+				"value": 4534
+			},
+            {
+				"name": "bytes3",
+				"time": "16:33:10",
+				"value": 2343
+			},
+            {
+				"name": "bytes4",
+				"time": "16:33:10",
+				"value": 2323
+			},
+            {
+				"name": "bytes5",
+				"time": "16:33:10",
+				"value": 12412
+			},
+            {
+				"name": "bytes6",
+				"time": "16:33:10",
+				"value": 1234
+			}
+
+		]
+	},
+	"sflow": {
+		"title": "连接数量",
+		"subtitle": "最近10分钟",
+		"tcpcn": "TCP连接数",
+		"tcpval": "129,575",
+		"udpcn": "UDP连接数",
+		"udpval": "45,605"
+	},
+	"avgmx": {
+		"title": "报文大小",
+		"subtitle": "最近10分钟",
+		"avgcn": "报文平均长度",
+		"avgval": 142,
+		"maxcn": "报文最大长度",
+		"maxval": 1600
+	}
+}

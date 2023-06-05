@@ -1,0 +1,253 @@
+{
+	"success": true,
+	"data": [
+		{
+			"name": "mconfig",
+			"icon": "MonitorOutlined",
+			"route": "",
+			"zh": {
+				"name": "策略中心"
+			},
+			"children": [
+				{
+					"name": "attachchk",
+					"route": "/mconfig/attachchk",
+					"zh": {
+						"name": "攻击窃密检测"
+					}
+				},
+				{
+					"name": "transmchk",
+					"route": "/mconfig/transmchk",
+					"zh": {
+						"name": "传输泄密检测"
+					}
+				}
+			]
+		},
+		{
+			"name": "cfgmngt",
+			"icon": "GlobalOutlined",
+			"route": "/cfgmngt/usersync",
+			"zh": {
+			  "name": "配置管理"
+			},
+			"children":[
+				{
+					"name": "ctrlcmd",
+					"route": "/cfgmngt/ctrlcmd",
+					"zh": {
+					  "name": "远控命令"
+					}
+				},
+				{
+					"name": "ruleinfo",
+					"route": "/cfgmngt/ruleinfo",
+					"zh": {
+					  "name": "中心级别"
+					}
+				},
+				{
+					"name": "devlist",
+					"route": "/cfgmngt/reglist",
+					"zh": {
+					  "name": "注册审核"
+					}
+				},
+				{
+					"name": "devlist",
+					"route": "/cfgmngt/devlist",
+					"zh": {
+					  "name": "级联设备"
+					}
+				}
+			]
+		},
+    {
+			"name": "sysconf",
+			"icon": "SettingOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "系统配置"
+			},
+			"children": [
+				{
+					"name": "adminacc",
+					"route": "/sysconf/adminacc",
+					"zh": {
+						"name": "管理员账号"
+					}
+				},
+				{
+					"name": "network",
+					"route": "/sysconf/network",
+					"zh": {
+						"name": "网络设置"
+					}
+				},
+				{
+					"name": "systime",
+					"route": "/sysconf/systime",
+					"zh": {
+						"name": "系统时间"
+					}
+				},
+				{
+					"name": "sysserv",
+					"route": "/sysconf/sysserv",
+					"zh": {
+						"name": "系统服务"
+					}
+				},
+				{
+					"name": "syszone",
+					"route": "/sysconf/syszone",
+					"zh": {
+						"name": "区域配置"
+					}
+				},
+				{
+					"name": "apiauth",
+					"route": "/sysconf/apiauth",
+					"zh": {
+						"name": "接口授权"
+					}
+				},
+				{
+					"name": "sysmenu",
+					"route": "/sysconf/sysmenu",
+					"zh": {
+						"name": "菜单权限"
+					}
+				},
+				{
+					"name": "netconf",
+					"route": "/sysconf/netconf",
+					"zh": {
+						"name": "网络配置"
+					}
+				},
+				{
+					"name": "syscert",
+					"route": "/sysconf/syscert",
+					"zh": {
+						"name": "系统证书"
+					}
+				},
+				{
+					"name": "deployd",
+					"route": "/sysconf/deployd",
+					"zh": {
+						"name": "部署配置"
+					}
+				}
+			]
+		},
+		{
+			"name": "alarmdt",
+			"icon": "Analysis",
+			"route": "/alarmdt/index",
+			"zh": {
+			  "name": "告警分析"
+			},
+			"children":[
+				{
+					"name": "transfer",
+					"route": "/alarmdt/transfer",
+					"zh": {
+					  "name": "传输涉密告警"
+					},
+					"operable":{
+						"del":false,
+						"add":true
+					}
+				},
+				{
+					"name": "attacker",
+					"route": "/alarmdt/attacker",
+					"zh": {
+					  "name": "攻击窃密告警"
+					},
+					"operable":{
+						"del":false,
+						"add":true
+					}
+				},
+				{
+					"name": "targetadt",
+					"route": "/alarmdt/targetadt",
+					"zh": {
+					  "name": "目标审计告警"
+					},
+					"operable":{
+						"del":false,
+						"add":true
+					}
+				},
+				{
+				  "name": "unknown",
+				  "route": "/alarmdt/unknown",
+				  "zh": {
+					"name": "未知攻击告警"
+				  },
+				  "operable":{
+					"del":true,
+					"add":true
+				}
+			  }
+			]
+		},
+		{
+			"name": "sysmain",
+			"icon": "ToolOutlined",
+			"route": "/index/index",
+			"zh": {
+				"name": "系统维护"
+			},
+			"children": [
+				{
+					"name": "mtacfg",
+					"route": "/sysmain/mtacfg",
+					"zh": {
+						"name": "配置维护"
+					}
+				},
+				{
+					"name": "status",
+					"route": "/sysmain/status",
+					"zh": {
+						"name": "系统状态"
+					}
+				},
+				{
+					"name": "update",
+					"route": "/sysmain/update",
+					"zh": {
+						"name": "系统升级"
+					}
+				},
+				{
+					"name": "mtadat",
+					"route": "/sysmain/mtadat",
+					"zh": {
+						"name": "数据维护"
+					}
+				},
+				{
+					"name": "mtalog",
+					"route": "/sysmain/mtalog",
+					"zh": {
+						"name": "日志维护"
+					}
+				},
+        {
+          "name": "remote",
+          "route": "/sysmain/remote",
+          "zh": {
+            "name": "系统调试"
+          }
+        }
+			]
+		}
+	]
+}

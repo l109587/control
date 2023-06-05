@@ -1,0 +1,23 @@
+{
+	"success":true,
+	"total":"1",
+	"data":[
+		{
+			"id":100,
+			"onState":"在线",
+			"macaddr":"xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx",
+			"ipaddr":"x.x.x.x",
+			"name":"zhangsan-PC",
+			"systypeID":"2",
+			"systype":"Windows",
+			"devtypeID":"2",
+			"devtype":"个人电脑",
+			"swip":"192.168.12.1",
+			"swport":"Eth0/0/1csoihaodkfasflk",
+			"responsible":"张三",
+			"firstTime":"2022-04-01 12:12:01",
+			"offlineTime":"2022-04-01 12:12:01",
+			"devip":"192.168.12.1"
+		}
+	]
+}

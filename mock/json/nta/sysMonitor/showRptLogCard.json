@@ -1,0 +1,25 @@
+{
+	"success": true,
+	"data": [
+		{
+			"type": "totcnt",
+			"value": "421,603",
+			"name": "日志总条数"
+		},
+		{
+			"type": "tbytes",
+			"value": "361MB",
+			"name": "日志总大小"
+		},
+		{
+			"type": "rptcnt",
+			"value": "79,167",
+			"name": "日志上报成功数"
+		},
+		{
+			"type": "errcnt",
+			"value": "21",
+			"name": "日志上报失败数"
+		}
+	]
+}

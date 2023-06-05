@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "minday": 90,
+  "period": 30,
+  "dspace": 80,
+  "data": [
+    {
+      "name": "aaaaaaaaaasaaaaaaaaaaaa.tgz",
+      "size": "10KB",
+      "date": "2022-05-24 02:00:00"
+    },
+    {
+      "name": "bbbbbbbbbbbbbbbbbbbbbbbb.tgz",
+      "size": "10KB",
+      "date": "2022-05-24 02:00:00"
+    }
+  ]
+}

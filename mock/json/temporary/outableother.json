@@ -1,0 +1,114 @@
+{
+	"success": true,
+	"total": 12,
+	"data": [
+		{
+			"id": 0,
+			"name": "全局配置",
+			"type": "sys",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 1,
+			"name": "个性配置2",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		},
+		{
+			"id": 2,
+			"name": "个性配置3",
+			"type": "custom",
+			"rptFlag": "300352300",
+			"rptAddrv4": "192.168.134.123",
+			"rptAddrv6": "",
+			"rptPort": "62132"
+		}
+	]
+}

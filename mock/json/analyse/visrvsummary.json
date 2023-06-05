@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "anon": {
+    "today": 23,
+    "total": 4345
+  },
+  "proxy": {
+    "today": 23,
+    "total": 4345
+  },
+  "remote": {
+    "today": 23,
+    "total": 4345
+  },
+  "addr": {
+    "today": 23,
+    "total": 4345
+  }
+}

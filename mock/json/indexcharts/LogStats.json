@@ -1,0 +1,25 @@
+{
+    "success": true,
+    "data": [
+        {
+            "type": "wanblklist",
+            "name": "恶意地址配置",
+            "value": "100"
+        },
+        {
+            "type": "lanblklist",
+            "name": "黑名单配置",
+            "value": "100"
+        },
+        {
+            "type": "contrl_log",
+            "name": "管控日志",
+            "value": "100"
+        },
+        {
+            "type": "audit_log",
+            "name": "审计日志",
+            "value": "100"
+        }
+    ]
+}

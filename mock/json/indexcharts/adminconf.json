@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "login_control": {
+    "limited": 0,
+    "timeout": 15,
+    "locktime": 5,
+    "trytimes": 5,
+    "captcha_onlynum": 1
+  },
+  "admin_pwdctrl": {
+    "firstmod": 0,
+    "strength": 0,
+    "length_check": 0,
+    "length_value": 10,
+    "change_period": 30,
+    "complex_check": 0
+  },
+  "login_2faauth": {
+    "crtype": "ukey-lm",
+    "crtlist": [{ "key": "ukey-lm", "text": "UKEY-LM" }],
+    "rootcrt": [
+      {
+        "issuer": "xxxx",
+        "subject": "xxxx",
+        "expire": "2022-02-02 12:12:00",
+        "serial": "xxxx",
+        "type": "xxxx",
+        "algm": "xxxx"
+      }
+    ]
+  }
+}

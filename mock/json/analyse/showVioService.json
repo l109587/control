@@ -1,0 +1,216 @@
+{
+  "success": true,
+  "total": 50,
+  "data": [
+    {
+      "id": "0",
+      "online": "1",
+      "devName": "WIN-TEST1",
+      "addr": "192.168.12.12",
+      "mac": "aa:bb:cc:dd:ee:ff",
+      "port": 21,
+      "info": {
+        "type": "anon",
+        "basic": "FTP",
+        "detail": "证书信息xxxxx证书信息xxxxx证书信息xxxxx证书信息xxxxx证书信息xxxxx证书信息xxxxx证书信息xxxxx证书信息xxxxx证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:00:03",
+      "lastTM": "2022-07-07 12:00:03"
+    },
+    {
+      "id": "1",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "remote",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "proxy",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    },
+    {
+      "id": "2",
+      "online": "0",
+      "devName": "WIN-TEST2",
+      "addr": "192.168.12.13",
+      "mac": "aa:bb:cc:dd:ee:ee",
+      "port": 3389,
+      "info": {
+        "type": "addr",
+        "basic": "RDP",
+        "detail": "证书信息xxxxx"
+      },
+      "firstTM": "2022-07-07 12:01:03",
+      "lastTM": "2022-07-07 12:01:03"
+    }
+  ]
+}

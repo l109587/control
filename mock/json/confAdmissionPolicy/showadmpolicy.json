@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "id": 1,
+      "status": "Y",
+      "name": "xxx",
+      "agentgroupidValue": "全部区域",
+      "devType": "1",
+      "sysType": "1",
+      "accessmodeValue": "check",
+      "notes": "",
+      "refcnt": "10",
+      "regverifyPolicy": "注册审核策略",
+      "checkAction": "1",
+      "authValue": "ukey",
+      "isguestAccess": "Y",
+      "isdelayAccess": "Y",
+      "delayDate": "2022-04-25 18:19:33",
+      "repairday": "阻断提示"
+    }
+  ]
+}

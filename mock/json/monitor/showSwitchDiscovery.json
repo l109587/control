@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "data": [
+    {
+      "switchScan": "Y",
+      "ipAddr": "192.168.134.1",
+      "snmpNameValue": "test",
+      "hubMacNum": "0",
+      "swtrapPwd": "swtrapPwd",
+      "swIprange": "192.168.12.1",
+      "termIprange": "192.168.12.2"
+    }
+  ]
+}

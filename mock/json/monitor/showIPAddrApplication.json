@@ -1,0 +1,67 @@
+
+{
+	"success": true,
+	"data": [
+		{
+			"id": "1",
+			"orderID": "",
+			"orderState": "submitted",
+			"zoneID": "4",
+			"zone": "北京分公司",
+			"fullZone": "/全部区域/",
+			"orgID": "7",
+			"org": "慧谷1期",
+			"fullOrg": "/全部区域/北京分公司/",
+			"user": "张三",
+			"phone": "15112345678",
+			"buisUsg": "办公设备",
+			"applyNum": "5",
+			"mac": "aa:bb:cc:dd:ee",
+			"vlan": "12",
+			"approvalPerson": "",
+			"applyIpAddr": "",
+			"notes": ""
+		},
+		{
+			"id": "2",
+			"orderID": "",
+			"orderState": "unsubmitted",
+			"zoneID": "7",
+			"zone": "慧谷1期",
+			"fullZone": "/全部区域/北京分公司/",
+			"orgID": "10",
+			"org": "北京研发中心",
+			"fullOrg": "/全部区域/北京分公司/慧谷1期/",
+			"user": "李四",
+			"phone": "123",
+			"buisUsg": "办公设备",
+			"applyNum": "1",
+			"mac": "aa:aa:aa:aa:aa:aa",
+			"vlan": "11",
+			"approvalPerson": "",
+			"applyIpAddr": "",
+			"notes": "aa"
+		},
+		{
+			"id": "3",
+			"orderID": "",
+			"orderState": "unsubmitted",
+			"zoneID": "1",
+			"zone": "全部区域",
+			"fullZone": "/",
+			"orgID": "0",
+			"org": null,
+			"fullOrg": null,
+			"user": "aa",
+			"phone": "151",
+			"buisUsg": "办公设备",
+			"applyNum": "3",
+			"mac": "aa",
+			"vlan": "11",
+			"approvalPerson": "",
+			"applyIpAddr": "",
+			"notes": ""
+		}
+	],
+	"total": 3
+}

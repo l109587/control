@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "total": 11,
+  "data": [
+    {
+      "id": 1,
+      "state": "published",
+      "name": "NBGAgent_v2.0.2.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-01 12:00:00",
+      "version": "v2.0.1"
+    },
+    {
+      "id": 2,
+      "state": "unpublished",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 3,
+      "state": "expired",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 4,
+      "state": "published",
+      "name": "NBGAgent_v2.0.2.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-01 12:00:00",
+      "version": "v2.0.1"
+    },
+    {
+      "id": 5,
+      "state": "unpublished",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 6,
+      "state": "expired",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 7,
+      "state": "published",
+      "name": "NBGAgent_v2.0.2.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-01 12:00:00",
+      "version": "v2.0.1"
+    },
+    {
+      "id": 8,
+      "state": "unpublished",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 9,
+      "state": "expired",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 10,
+      "state": "expired",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    },
+    {
+      "id": 11,
+      "state": "expired",
+      "name": "NBGAgent_v2.0.1.tgz",
+      "md5": "1ced75634bcd123",
+      "time": "2022-08-03 11:00:00",
+      "version": "v2.0.2"
+    }
+  ]
+}

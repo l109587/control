@@ -1,0 +1,12 @@
+{
+	"success": true,
+	"switch": "Y",
+	"interface": "mgt",
+	"ports": "测试",
+	"tagPeriod": 2,
+	"scanRate": 2,
+	"scanRange": [
+		"192.168.132.123/24",
+		"192.168.132.0/25"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"success":true,
+	"total":1,"data":[
+		{
+			"enable":"Y",
+			"useExt":"Y",
+			"role":"standby",
+			"vip":"10.88.8.5",
+			"state":"close"
+		}
+	]
+}

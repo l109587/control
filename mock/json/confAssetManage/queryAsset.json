@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "macaddr": "00:50:56:8A:51:57",
+      "ipaddr": "192.168.12.2",
+      "user": "zhangsan",
+      "phone": "15112345678",
+      "buisUsg": "监控设备",
+      "assetType": "PC",
+      "assetModel": "fd-ddo",
+      "location": "一楼",
+      "vlan": "11",
+      "notes": "备注",
+      "zone": "慧谷1期",
+      "org": "边界安全部"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "bar": [
+    {
+      "name": "tot",
+      "time": "15:19:10",
+      "value": 2854,
+      "label": "连接数"
+    },
+    {
+      "name": "tot",
+      "time": "16:19:10",
+      "value": 2854,
+      "label": "连接数"
+    },
+    {
+      "name": "tot",
+      "time": "17:19:10",
+      "value": 1234,
+      "label": "连接数"
+    },
+    {
+      "name": "tot",
+      "time": "18:19:10",
+      "value": 2324,
+      "label": "连接数"
+    },
+    {
+      "name": "tot",
+      "time": "19:19:10",
+      "value": 2324,
+      "label": "连接数"
+    }
+  ],
+  "lines": [
+    {
+      "name": "tcp",
+      "time": "15:19:10",
+      "value": 2233,
+      "label": "TCP连接数"
+    },
+    {
+      "name": "tcp",
+      "time": "16:19:10",
+      "value": 1234,
+      "label": "TCP连接数"
+    },
+    {
+      "name": "tcp",
+      "time": "17:19:10",
+      "value": 2319,
+      "label": "TCP连接数"
+    },
+    {
+      "name": "tcp",
+      "time": "18:19:10",
+      "value": 1278,
+      "label": "TCP连接数"
+    },
+    {
+      "name": "tcp",
+      "time": "19:19:10",
+      "value": 2319,
+      "label": "TCP连接数"
+    },
+    {
+      "name": "udp",
+      "time": "15:19:10",
+      "value": 535,
+      "label": "UDP连接数"
+    },
+    {
+      "name": "udp",
+      "time": "16:19:10",
+      "value": 255,
+      "label": "UDP连接数"
+    },
+    {
+      "name": "udp",
+      "time": "17:19:10",
+      "value": 345,
+      "label": "UDP连接数"
+    },
+    {
+      "name": "udp",
+      "time": "18:19:10",
+      "value": 344,
+      "label": "UDP连接数"
+    },
+    {
+      "name": "udp",
+      "time": "19:19:10",
+      "value": 534,
+      "label": "UDP连接数"
+    }
+  ],
+  "subtitle": "最近10分钟间隔30秒统计",
+  "success": true,
+  "title": "TCP/UDP 连接数统计图111"
+}

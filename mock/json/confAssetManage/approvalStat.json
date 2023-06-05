@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": {
+    "SignIN": {
+      "unapproved": 100,
+      "approved": 100,
+      "rejected": 100
+    },
+    "SignChange": {
+      "unapproved": 100,
+      "approved": 100,
+      "rejected": 10
+    },
+    "SignOUT": {
+      "unapproved": 100,
+      "approved": 100,
+      "rejected": 100
+    }
+  }
+}

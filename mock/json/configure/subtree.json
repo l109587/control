@@ -1,0 +1,22 @@
+{
+	"id":1,
+	"name":"规划列表",
+	"level":1,
+	"gpname":"/",
+	"gpid":"0",
+    "leaf":"0",
+	"children":[
+		{"id":2,"name":"10.5.0.1/16","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":3,"name":"10.7.0.0/15","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":4,"name":"10.7.0.1/14","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":5,"name":"10.8.0.1/13","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":6,"name":"10.5.0.1/12","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":7,"name":"10.5.8.1/11","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":8,"name":"10.6.9.1/20","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":9,"name":"10.4.0.1/17","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":10,"name":"10.3.2.1/18","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":11,"name":"10.6.5.1/21","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":12,"name":"10.3.1.1/22","level":2,"gpname":"全国","gpid":"1","leaf":"0"},
+		{"id":13,"name":"10.3.0.1/19","level":2,"gpname":"全国","gpid":"1","leaf":"0"}
+	]	
+}

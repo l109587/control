@@ -1,0 +1,418 @@
+{
+    "success": true,
+    "data": [
+      {
+        "name": "index",
+        "icon": "HomeOutlined",
+        "route": "/index/nbg",
+        "zh": {
+          "name": "首页"
+        }
+      },
+      {
+        "name": "analyse",
+        "icon": "GlobalOutlined",
+        "route": "/index/nbg",
+        "zh": {
+            "name": "监测分析"
+        },
+        "children": [
+            {
+                "name": "assets",
+                "route": "/analyse/assets",
+                "zh": {
+                    "name": "资产分析"
+                },
+                "wrt":1
+            },
+            {
+                "name": "illout",
+                "route": "/analyse/illout",
+                "zh": {
+                    "name": "违规外联"
+                },
+                "wrt":1
+            },
+            {
+                "name": "series",
+                "route": "/analyse/series",
+                "zh": {
+                    "name": "网络串线"
+                },
+                "wrt":1
+            },
+            {
+                "name": "illinn",
+                "route": "/analyse/illinn",
+                "zh": {
+                    "name": "违规内联"
+                },
+                "wrt":1
+            },
+            {
+                "name": "illsvr",
+                "route": "/analyse/illsvr",
+                "zh": {
+                    "name": "违规服务"
+                },
+                "wrt":1
+            },
+            {
+                "name": "resmap",
+                "route": "/analyse/resmap",
+                "zh": {
+                    "name": "资源分布"
+                },
+                "wrt":1
+            },
+            {
+                "name": "resrisk",
+                "route": "/analyse/resrisk",
+                "zh": {
+                    "name": "风险分析"
+                },
+                "wrt":1
+            }
+        ]
+    },
+    {
+        "name": "monitor",
+        "icon": "AppstoreOutlined",
+        "route": "/index/nbg",
+        "zh": {
+            "name": "监测管理"
+        },
+        "children": [
+            {
+                "name": "basecfg",
+                "route": "/monitor/basecfg",
+                "zh": {
+                    "name": "基础配置"
+                },
+                "wrt":1
+            },
+            {
+                "name": "mapping",
+                "route": "/monitor/mapping",
+                "zh": {
+                    "name": "资产测绘"
+                },
+                "wrt":1
+            },
+            {
+                "name": "illegal",
+                "route": "/monitor/illegal",
+                "zh": {
+                    "name": "违规监测"
+                },
+                "wrt":1
+            },
+            {
+                "name": "crossed",
+                "route": "/monitor/crossed",
+                "zh": {
+                    "name": "串线监测"
+                },
+                "wrt":1
+            },
+            {
+                "name": "montask",
+                "route": "/monitor/montask",
+                "zh": {
+                    "name": "监测任务"
+                },
+                "wrt":1
+            },
+            {
+                "name": "riskperce",
+                "route": "/monitor/riskperce",
+                "zh": {
+                    "name": "风险感知"
+                },
+                "wrt":1
+            },
+            {
+                "name": "devtmpl",
+                "route": "/monitor/devtmpl",
+                "zh": {
+                    "name": "模板配置"
+                },
+                "wrt":1
+            }
+        ]
+    },
+    {
+        "name": "probers",
+        "icon": "MonitorOutlined",
+        "route": "/index/nbg",
+        "zh": {
+            "name": "探针管理"
+        },
+        "children": [
+            {
+                "name": "jsprobe",
+                "route": "/probers/jsprobe",
+                "zh": {
+                    "name": "脚本探针"
+                },
+                "wrt":1
+            },
+            {
+                "name": "teprobe",
+                "route": "/probers/teprobe",
+                "zh": {
+                    "name": "终端探针"
+                },
+                "wrt":1
+            },
+            {
+                "name": "hdprobe",
+                "route": "/probers/hdprobe",
+                "zh": {
+                    "name": "硬件探针"
+                },
+                "wrt":1
+            }
+        ]
+    },
+    {
+        "name": "prbmgt",
+        "icon": "MonitorOutlined",
+        "route": "",
+        "zh": {
+            "name": "探针监测"
+        },
+        "children": [
+            {
+                "name": "devreg",
+                "route": "/prbmgt/devreg",
+                "zh": {
+                    "name": "探针注册"
+                }
+            },
+            {
+                "name": "chkinfo",
+                "route": "/prbmgt/chkinfo",
+                "zh": {
+                    "name": "监测信息"
+                },
+                "wrt":1
+            },
+            {
+                "name": "chkconf",
+                "route": "/prbmgt/chkconf",
+                "zh": {
+                    "name": "监测配置"
+                },
+                "wrt":1
+            }
+        ]
+    },
+    {
+        "name": "netanalyse",
+        "icon": "MonitorOutlined",
+        "route": "",
+        "zh": {
+            "name": "网络分析"
+        },
+        "children": [
+            {
+                "name": "devreg",
+                "route": "/netanalyse/nettopo",
+                "zh": {
+                    "name": "网络拓扑"
+                },
+                "wrt":1
+            },
+            {
+                "name": "chkinfo",
+                "route": "/netanalyse/nswitch",
+                "zh": {
+                    "name": "网络设备"
+                },
+                "wrt":1
+            }
+        ]
+    },
+    {
+        "name": "sysconf",
+        "icon": "SettingOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "系统配置"
+        },
+        "children": [
+            {
+                "name": "adminacc",
+                "route": "/sysconf/adminacc",
+                "zh": {
+                    "name": "管理员账号"
+                },
+                "wrt":1
+            },
+            {
+                "name": "adminset",
+                "route": "/sysconf/adminset",
+                "zh": {
+                    "name": "管理员设置"
+                },
+                "wrt":1
+            },
+            {
+                "name": "network",
+                "route": "/sysconf/network",
+                "zh": {
+                    "name": "网络设置"
+                },
+                "wrt":1
+            },
+            {
+                "name": "netconf",
+                "route": "/sysconf/netconf",
+                "zh": {
+                    "name": "网络配置"
+                },
+                "wrt": 1
+            },
+            {
+                "name": "systime",
+                "route": "/sysconf/systime",
+                "zh": {
+                    "name": "系统时间"
+                },
+                "wrt":1
+            },
+            {
+                "name": "sysserv",
+                "route": "/sysconf/sysserv",
+                "zh": {
+                    "name": "系统服务"
+                },
+                "wrt":1
+            },
+            {
+                "name": "apiauth",
+                "route": "/sysconf/apiauth",
+                "zh": {
+                    "name": "接口授权"
+                },
+                "wrt":1
+            },
+            {
+                "name": "sysmenu",
+                "route": "/sysconf/sysmenu",
+                "zh": {
+                    "name": "菜单权限"
+                },
+                "wrt":1
+            },
+            {
+                "name": "deployd",
+                "route": "/sysconf/deployd",
+                "zh": {
+                    "name": "部署配置"
+                },
+                "wrt":1
+            },
+            {
+                "name": "ecustom",
+                "route": "/sysconf/ecustom",
+                "zh": {
+                    "name": "企业定制"
+                },
+                "wrt":1
+            },
+            {
+                "name": "standby",
+                "route": "/sysconf/standby",
+                "zh": {
+                    "name": "不知道"
+                },
+                "wrt":1
+            },
+            {
+                "name": "syscert",
+                "route": "/sysconf/syscert",
+                "zh": {
+                    "name": "系统证书"
+                },
+                "wrt":1
+            },
+            {
+                "name": "zoneconf",
+                "route": "/sysconf/zoneconf",
+                "zh": {
+                    "name": "区域配置"
+                },
+                "wrt":1
+            }
+        ]
+    },
+    {
+        "name": "sysmain",
+        "icon": "ToolOutlined",
+        "route": "/index/tac",
+        "zh": {
+            "name": "系统维护"
+        },
+        "children": [
+            {
+                "name": "admlog",
+                "route": "/sysmain/admlog",
+                "zh": {
+                    "name": "操作日志"
+                },
+                "wrt":1
+            },
+            {
+                "name": "mtacfg",
+                "route": "/sysmain/mtacfg",
+                "zh": {
+                    "name": "配置维护"
+                },
+                "wrt":1
+            },
+            {
+                "name": "status",
+                "route": "/sysmain/status",
+                "zh": {
+                    "name": "系统状态"
+                },
+                "wrt":1
+            },
+            {
+                "name": "update",
+                "route": "/sysmain/update",
+                "zh": {
+                    "name": "系统升级"
+                },
+                "wrt":1
+            },
+            {
+                "name": "mtadat",
+                "route": "/sysmain/mtadat",
+                "zh": {
+                    "name": "数据维护"
+                },
+                "wrt":1
+            },
+            {
+                "name": "mtalog",
+                "route": "/sysmain/mtalog",
+                "zh": {
+                    "name": "日志维护"
+                },
+                "wrt":1
+            },
+            {
+                "name": "remote",
+                "route": "/sysmain/remote",
+                "zh": {
+                    "name": "系统调试"
+                },
+                "wrt":1
+            }
+        ]
+    }
+    ]
+}

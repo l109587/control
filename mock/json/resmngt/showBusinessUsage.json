@@ -1,0 +1,17 @@
+{
+	"success":true,
+	"total":2,
+	"data":[
+		{
+			"value":1,
+			"label":"个人电脑"
+		},
+		{
+			"value":2,
+			"label":"服务器"
+		},{
+			"value":5,
+			"label":"服务器1"
+		}
+	]	
+}

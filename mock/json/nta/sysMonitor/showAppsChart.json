@@ -1,0 +1,99 @@
+{
+  "pie": {
+    "title": "最近1小时双向流量占比图",
+    "data": [
+      {
+        "apps": "unudp",
+        "appcn": "其他UDP协议",
+        "bytes": 342
+      },
+      {
+        "apps": "werwe",
+        "appcn": "其他TAC协议",
+        "bytes": 342
+      },
+      {
+        "apps": "werw",
+        "appcn": "其他ADC协议",
+        "bytes": 342
+      },
+      {
+        "apps": "sdf",
+        "appcn": "其他ANG协议",
+        "bytes": 342
+      },
+      {
+        "apps": "sfs",
+        "appcn": "其他UCFN协议",
+        "bytes": 342
+      }
+    ]
+  },
+  "run": {
+    "title": "最近1小时双向流量趋势图",
+    "xstep": 6,
+    "count": 60,
+    "lines": [
+      {
+        "name": "dhcp",
+        "appcn": "DHCP协议",
+        "time": "02-09 14:36",
+        "value": 302
+      },
+      {
+        "name": "dhcp",
+        "appcn": "DHCP协议",
+        "time": "02-10 14:36",
+        "value": 232
+      },
+      {
+        "name": "dhcp",
+        "appcn": "DHCP协议",
+        "time": "02-11 14:36",
+        "value": 333
+      },
+      {
+        "name": "dhcp",
+        "appcn": "DHCP协议",
+        "time": "02-12 14:36",
+        "value": 304
+      },
+      {
+        "name": "dhcp",
+        "appcn": "DHCP协议",
+        "time": "02-13 14:36",
+        "value": 123
+      },
+      {
+        "name": "dns",
+        "appcn": "域名解析协议",
+        "time": "02-09 14:36",
+        "value": 733
+      },
+      {
+        "name": "dns",
+        "appcn": "域名解析协议",
+        "time": "02-10 14:36",
+        "value": 738
+      },
+      {
+        "name": "dns",
+        "appcn": "域名解析协议",
+        "time": "02-11 14:36",
+        "value": 732
+      },
+      {
+        "name": "dns",
+        "appcn": "域名解析协议",
+        "time": "02-12 14:36",
+        "value": 673
+      },
+      {
+        "name": "dns",
+        "appcn": "域名解析协议",
+        "time": "02-13 14:36",
+        "value": 23
+      }
+    ]
+  }
+}

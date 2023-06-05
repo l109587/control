@@ -1,0 +1,112 @@
+{
+	"success": true,
+	"title": "日志排名",
+	"subtitle": "最近1小时日志总量排名",
+	"data": [
+		{
+			"name": "流量日志",
+			"type": "日志条目总数",
+			"value": 3046
+		},
+		{
+			"name": "流量日志",
+			"type": "发送成功次数",
+			"value": 490
+		},
+		{
+			"name": "流量日志",
+			"type": "发送失败次数",
+			"value": 14
+		},
+		{
+			"name": "HTTP日志",
+			"type": "日志条目总数",
+			"value": 4854
+		},
+		{
+			"name": "HTTP日志",
+			"type": "发送成功次数",
+			"value": 15886
+		},
+		{
+			"name": "HTTP日志",
+			"type": "发送失败次数",
+			"value": 11
+		},
+		{
+			"name": "HTTPS日志",
+			"type": "日志条目总数",
+			"value": 4222
+		},
+		{
+			"name": "HTTPS日志",
+			"type": "发送成功次数",
+			"value": 15886
+		},
+		{
+			"name": "HTTPS日志",
+			"type": "发送失败次数",
+			"value": 2222
+		},
+		{
+			"name": "HTTPSQ日志",
+			"type": "日志条目总数",
+			"value": 4222
+		},
+		{
+			"name": "HTTPSQ日志",
+			"type": "发送成功次数",
+			"value": 15886
+		},
+		{
+			"name": "HTTPSQ日志",
+			"type": "发送失败次数",
+			"value": 2222
+		},
+		{
+			"name": "ASS日志",
+			"type": "日志条目总数",
+			"value": 4222
+		},
+		{
+			"name": "ASS日志",
+			"type": "发送成功次数",
+			"value": 15886
+		},
+		{
+			"name": "ASS日志",
+			"type": "发送失败次数",
+			"value": 2222
+		},
+		{
+			"name": "FRR日志",
+			"type": "日志条目总数",
+			"value": 4222
+		},
+		{
+			"name": "FRR日志",
+			"type": "发送成功次数",
+			"value": 15886
+		},
+		{
+			"name": "FRR日志",
+			"type": "发送失败次数",
+			"value": 2222
+		},
+		{
+			"name": "FTP日志",
+			"type": "日志条目总数",
+			"value": 4222
+		},
+		{
+			"name": "FTP日志",
+			"type": "发送成功次数",
+			"value": 15886
+		},
+		{
+			"name": "FTP日志",
+			"type": "发送失败次数",
+			"value": 2222
+		}
+	]
+}

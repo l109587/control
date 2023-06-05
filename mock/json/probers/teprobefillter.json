@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "total": 3,
+  "data": [
+    {
+      "filterName": "version",
+      "count": 3,
+      "info": [
+        {
+          "id": 4,
+          "text": "v1.0.15"
+        },
+        {
+          "id": 2,
+          "text": "v1.0.16"
+        },
+        {
+          "id": 1,
+          "text": "v3.0.96"
+        }
+      ]
+    },
+    {
+      "filterName": "os",
+      "count": 3,
+      "info": [
+        {
+          "id": 0,
+          "text": "Windows Server 2012 R2"
+        },
+        {
+          "id": 1,
+          "text": "Windows10"
+        },
+        {
+          "id": 2,
+          "text": "Windows7"
+        }
+      ]
+    },
+    {
+      "filterName": "state",
+      "count": 2,
+      "info": [
+        {
+          "id": 1,
+          "text": "在线"
+        },
+        {
+          "id": 0,
+          "text": "离线"
+        }
+      ]
+    }
+  ]
+}

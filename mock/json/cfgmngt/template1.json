@@ -1,0 +1,153 @@
+{
+  "title": "计算机终端设备入网申请表",
+  "name": "",
+  "dateTime": "",
+  "upData": [
+    {
+      "id": "001",
+      "title": "申请单位",
+      "children": [
+        { "key": "company", "id": "11", "value": "", "valueColSpan": 4 }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "002",
+      "title": "设备人使用信息",
+      "children": [
+        {
+          "key": "user",
+          "id": "22",
+          "title": "使用人",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "33",
+          "key": "mechanism",
+          "title": "所在机构",
+          "colSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 3
+    },
+    {
+      "id": "003",
+      "title": "",
+      "children": [
+        {
+          "id": "44",
+          "key": "phone",
+          "title": "联系电话",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "55",
+          "key": "id",
+          "title": "身份证号",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "0033",
+      "title": "",
+      "children": [
+        {
+          "id": "66",
+          "key": "location",
+          "title": "所在位置",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "004",
+      "title": "设备信息",
+      "children": [
+        {
+          "id": "77",
+          "key": "vlan",
+          "title": "所在VLAN",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "88",
+          "key": "purpose",
+          "title": "业务用途",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 3
+    },
+    {
+      "id": "005",
+      "title": "",
+      "children": [
+        {
+          "id": "99",
+          "key": "address",
+          "title": "物理地址",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "100",
+          "key": "model",
+          "title": "品牌型号",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "006",
+      "title": "",
+      "children": [
+        {
+          "id": "923429",
+          "key": "assetType",
+          "title": "设备类型",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 1
+    }
+  ],
+  "bottomData": [
+    {
+      "id": "122",
+      "title": "申请单位意见",
+      "signName": "签字:",
+      "date": "日期:",
+      "chapter": "(公章):"
+    },
+    {
+      "id": "1212323",
+      "title": "审批部门意见",
+      "signName": "签字:",
+      "date": "日期:",
+      "chapter": "(公章):"
+    }
+  ]
+}

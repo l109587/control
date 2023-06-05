@@ -1,0 +1,25 @@
+{
+	"id": "3",
+	"success": true,
+	"name": "cs",
+	"level": "3",
+	"gpnamePath": "cs/a/b/c",
+	"gpnameIDPath": "0.1.2.3",
+	"gpname": "cs",
+	"gpid": "2",
+	"leaf": "N",
+	"type": "zone",
+	"children": [
+		{
+			"id": "4",
+			"name": "vvv",
+			"level": "4",
+			"gpnamePath": "a/b/c",
+			"gpnameIDPath": "0.1.2.3.4",
+			"gpname": "vvv",
+			"gpid": "3",
+			"leaf": "Y",
+			"type": "org"
+		}
+	]
+}

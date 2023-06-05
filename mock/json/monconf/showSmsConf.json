@@ -1,0 +1,9 @@
+{
+	"success": true,
+	"smsType": "1",
+	"host": "http://www.yunpian.com/sendSms",
+	"code": "1222",
+	"pw": "132",
+	"sign": "132",
+	"temId": "132"
+}

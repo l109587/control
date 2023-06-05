@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="12" height="12" style="border-color: rgba(0,0,0,0);border-width: bpx;border-style: undefined" filter="none">
+    
+    <g>
+    <path d="M10 18v2h4v4h6v-4h4v-4h2v-8h-18v8h2v2zM14 14v-4h2v4h-2zM20 14h-2v-4h2v4zM10 10h2v4h-2v-4zM24 14h-2v-4h2v4z" fill="rgba(249.9,172.89000000000001,20.91,1)"></path><path d="M2 2v28h30v-28h-30zM28 18h-2v4h-4v4h-10v-4h-4v-4h-2v-12h22v12z" fill="rgba(249.9,172.89000000000001,20.91,1)"></path>
+    </g>
+  </svg>

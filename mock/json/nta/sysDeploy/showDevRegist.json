@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "deviceID": "0200020001000002",
+  "regAddr": "10.2.2.2:22",
+  "regIPAddr": "10.2.2.2:22",
+  "regNodeID": "23424",
+  "regStatus": { "text": "已拒绝", "color": "grey" },
+  "regReason": "不同意拒绝，拒绝",
+  "crtStatus":"N",
+  "cert": [
+    {
+      "issuer": "张三三",
+      "subject": "zhangsan@163.com",
+      "expire": "2022-02-02 12:12:00",
+      "serial": "123123"
+    },
+    {
+      "issuer": "张三三",
+      "subject": "zhangsan@163.com",
+      "expire": "2022-02-02 12:12:00",
+      "serial": "123123"
+    }
+  ]
+}

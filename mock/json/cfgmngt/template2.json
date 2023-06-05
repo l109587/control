@@ -1,0 +1,175 @@
+{
+  "title": "计算机终端设备变更申请表",
+  "name": "",
+  "dateTime": "",
+  "upData": [
+    {
+      "id": "001",
+      "title": "人员信息",
+      "children": [
+        {
+          "key": "company",
+          "id": "22",
+          "title": "申请单位",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "33",
+          "key": "applicant",
+          "title": "申请人",
+          "colSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 2
+    },
+    {
+      "id": "002",
+      "title": "",
+      "children": [
+        {
+          "id": "44",
+          "key": "mechanism",
+          "title": "所在机构",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "55",
+          "key": "phone",
+          "title": "联系电话",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "003",
+      "title": "设备信息",
+      "children": [
+        {
+          "id": "77",
+          "key": "location",
+          "title": "所在位置",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 4
+    },
+    {
+      "id": "004",
+      "title": "",
+      "children": [
+        {
+          "id": "99",
+          "key": "ip",
+          "title": "IP地址",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "100",
+          "key": "address",
+          "title": "物理地址",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "005",
+      "title": "",
+      "children": [
+        {
+          "id": "922",
+          "key": "purpose",
+          "title": "业务用途",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        },
+        {
+          "id": "130",
+          "key": "model",
+          "title": "品牌型号",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 1
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "00666",
+      "title": "",
+      "children": [
+        {
+          "id": "9234221329",
+          "key": "assetType",
+          "title": "设备类型",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 1
+    },
+    {
+      "id": "006",
+      "title": "变更信息",
+      "children": [
+        {
+          "id": "35353",
+          "key": "changedVlan",
+          "title": "变更后VLAN",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 2
+    },
+    {
+      "id": "007",
+      "title": "",
+      "children": [
+        {
+          "id": "123132",
+          "key": "changeReason",
+          "title": "变更原因",
+          "titleColSpan": 1,
+          "value": "",
+          "valueColSpan": 3
+        }
+      ],
+      "rowSpan": 1
+    }
+  ],
+  "bottomData": [
+    {
+      "id": "122",
+      "title": "申请单位意见",
+      "signName": "签字:",
+      "date": "日期:",
+      "chapter": "(公章):"
+    },
+    {
+      "id": "1212323",
+      "title": "审批部门意见",
+      "signName": "签字:",
+      "date": "日期:",
+      "chapter": "(公章):"
+    }
+  ]
+}

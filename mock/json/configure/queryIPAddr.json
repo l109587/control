@@ -1,0 +1,18 @@
+{
+	"success":true,
+	"total":"1",
+	"data":[
+		{
+			"id":1,
+			"ipaddr":"192.168.12.2",
+			"subnet":"192.168.12.0",
+			"macaddr":"00:50:56:8A:51:57",
+			"phone":"13591992387",
+            "mngState":"assigned",
+			"buisUsg":"监控设备",
+			"user":"张三",
+			"zone":"慧谷1期",
+			"org":"边界安全部"
+		}
+	]
+}

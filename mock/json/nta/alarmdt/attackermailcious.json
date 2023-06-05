@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "id": 100,
+      "timestamp": 1669793464,
+      "userAgent": "xxxx",
+      "dtrID": 11,
+      "mfrID": 11,
+      "ruleID": 1,
+      "risk": 1,
+      "sip": "x.x.x.x",
+      "sport": 12345,
+      "smac": "xx:xx:xx:xx:xx:xx",
+      "dip": "x.x.x.x",
+      "dport": 12345,
+      "dmac": "xx:xx:xx:xx:xx:xx",
+      "malwareType": "",
+      "malwareName": "",
+      "filetime": "",
+      "filename": "",
+      "checksum": "",
+      "filetype": "",
+      "isUpload": "",
+      "details": "XXXXXXXXXXXXX"
+    }
+  ]
+}

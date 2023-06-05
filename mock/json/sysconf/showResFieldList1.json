@@ -1,0 +1,33 @@
+{
+	"success": true,
+	"total": "1",
+	"data": [
+		{
+			"id": "12",
+			"dynamic": "Y",
+			"state": "N",
+			"belong": "user12",
+			"key": "field2",
+			"name": "cs21312",
+			"form": "list",
+			"type": "select",
+			"required": "Y",
+			"content": "",
+			"module":{"resource":"Y", "asset":"N"}
+		},
+    {
+			"id": "121",
+			"dynamic": "Y",
+			"state": "N",
+			"belong": "user12",
+			"key": "field2",
+			"name": "aaa1312",
+			"form": "list",
+			"type": "select",
+			"required": "Y",
+			"content": "",
+      "buisusg":["办公设备","监控设备"],
+			"module":{"resource":"N", "asset":"Y"}
+		}
+	]
+}

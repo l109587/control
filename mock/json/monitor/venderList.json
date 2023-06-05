@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "Cisco",
+      "value": "Cisco"
+    },
+    {
+      "name": "Huawei",
+      "value": "Huawei"
+    },
+    {
+      "name": "Ruijie",
+      "value": "Ruijie"
+    },
+    {
+      "name": "H3C",
+      "value": "H3C"
+    },
+    {
+      "name": "BDCOM",
+      "value": "BDCOM"
+    },
+    {
+      "name": "ZTE",
+      "value": "ZTE"
+    },
+    {
+      "name": "ASB",
+      "value": "ASB"
+    },
+    {
+      "name": "DPTECH",
+      "value": "DPTECH"
+    },
+    {
+      "name": "Opzoon",
+      "value": "Opzoon"
+    },
+    {
+      "name": "GalaxyWind",
+      "value": "GalaxyWind"
+    },
+    {
+      "name": "Topsec",
+      "value": "Topsec"
+    },
+    {
+      "name": "MyPower",
+      "value": "MyPower"
+    }
+  ]
+}

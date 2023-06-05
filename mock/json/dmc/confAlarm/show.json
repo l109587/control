@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "total": "1",
+    "data": [
+      {
+        "id": 1,
+        "time": "2022-2-22 10:22:22",
+        "type": "reboot",
+        "param": "模块，子模块",
+        "desc": "可是尽量快点放假啊考了几分道理会计分录",
+        "from": "remote",
+        "refDevCnt":0,
+        "filetime":"2022-2-22 10:22:22",
+        "filename":"XXXX",
+        "filetype":"XXXX",
+        "checksum":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "protoinfo":{
+          "title":"邮件要素",
+          "data":[
+            {
+              "title":"发件人","value":"李刚"
+            },
+            {
+              "title":"收件人","value":"李红"
+            },
+            {
+              "title":"抄送","value":"李刚"
+            },
+            {
+              "title":"密送","value":"李德国"
+            },
+            {
+              "title":"主题","value":"王晓"
+            }
+          ]
+        }
+        
+      },
+      {
+        "id": 2,
+        "time": "2022-2-22 10:22:22",
+        "type": "shutdown",
+        "param": "模块，子模块",
+        "desc": "可是尽量快点放假啊考了几分道理会计分录",
+        "from": "local",
+        "refDevCnt":2,
+        "filetime":"2022-2-22 10:22:22",
+        "filename":"XXXX",
+        "checksum":"XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      }
+    ]
+  }

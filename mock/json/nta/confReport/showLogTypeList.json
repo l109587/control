@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": [
+    { "text": "设备状态", "value": "device" },
+    { "text": "流量日志", "value": "flow" },
+    { "text": "会话日志", "value": "tls" },
+    { "text": "HTTP日志", "value": "http" },
+    { "text": "DNS日志", "value": "dns" },
+    { "text": "电子邮件日志", "value": "mail" },
+    { "text": "数据库日志", "value": "sql" },
+    { "text": "文件传输日志", "value": "file" }
+  ]
+}

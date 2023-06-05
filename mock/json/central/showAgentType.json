@@ -1,0 +1,14 @@
+{
+	"success":true,
+	"total":"2",
+	"data":[
+		{
+			"id":0,
+			"text":"windows"
+		},
+		{
+			"id":1,
+			"text":"Linux"
+		}
+	]
+}

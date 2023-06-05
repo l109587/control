@@ -1,0 +1,30 @@
+{
+	"success":true,
+	"total":50,
+	"data":[
+		{"id":1,"name":"北京市","number":"0100000001","level":2,"gpname":"全国","gpid":"1","type":"org","gpname_path":"/全国1","gpid_path":"0.1","notes":"xxx"},
+		{"id":7,"name":"上海市","number":"0100000002","level":2,"gpname":"全国","gpid":"1","type":"zone","gpname_path":"/全国2","gpid_path":"0.1","notes":"xxx"},
+		{"id":8,"name":"天津市","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国3","gpid_path":"0.1","notes":"xxx"},
+		{"id":9,"name":"河北省","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国4","gpid_path":"0.1","notes":"xxx"},
+		{"id":10,"name":"昌平区","number":"0100000001","level":2,"gpname":"北京","gpid":"1","gpname_path":"/全国5","gpid_path":"0.1","notes":"xxx"},
+		{"id":11,"name":"海淀区","number":"0100000002","level":2,"gpname":"北京","gpid":"1","gpname_path":"/全国6","gpid_path":"0.1","notes":"xxx"},
+		{"id":12,"name":"朝阳区","number":"0100000003","level":2,"gpname":"北京","gpid":"1","gpname_path":"/全国7","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":13,"name":"房山区","number":"0100000003","level":2,"gpname":"全国","gpid":"1","gpname_path":"/全国8","gpid_path":"0.1","notes":"xxx"},
+		{"id":14,"name":"石景山区","number":"0100000002","level":2,"gpname":"北京","gpid":"1","gpname_path":"/全国9","gpid_path":"0.1","notes":"xxx"}
+	
+	]	
+}

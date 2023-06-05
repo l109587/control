@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "data":[
+    {
+      "type": "XZ",
+      "level": "3",
+      "division": [
+        { "level": "2", "code": "001100", "text": "北京市" },
+        { "level": "3", "code": "001200", "text": "天津市" }
+      ],
+      "sysid": 3
+    }
+  ]
+}

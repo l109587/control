@@ -1,0 +1,12 @@
+.textMessage {
+  position: relative;
+  left: 0.5%;
+  top: -10px;
+  color: #999;
+  font-size: 12px;
+  height: 8px;
+  line-height: 8px;
+}
+.outrform > .ant-row.ant-form-item {
+  margin-top: -5px;
+}

@@ -1,0 +1,18 @@
+{
+  "title": "用户统计",
+  "total": 150,
+  "data": [
+    {
+      "user": "eth6",
+      "mreport": 20,
+      "malarm": 3,
+      "lasttime": "2023-02-23 18:28:44"
+    },
+    {
+      "user": "eth7",
+      "mreport": 20,
+      "malarm": 3,
+      "lasttime": "2023-02-23 18:28:44"
+    }
+  ]
+}

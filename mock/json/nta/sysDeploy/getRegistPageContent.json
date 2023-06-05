@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "data": [
+    { "id": 1, "name": "regIPAddr", "title": "指挥节点地址" },
+    { "id": 2, "name": "regNodeID", "title": "指挥节点编号" }
+  ]
+}

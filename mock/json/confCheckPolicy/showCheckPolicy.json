@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "id": 1,
+      "status": "Y",
+      "name": "xxx",
+      "devgrpID": "1",
+      "devgrpName": "全部区域",
+      "fullDevgrpName": "北京市/海淀区",
+      "systype": "win",
+      "ruleID": "1000",
+      "ruleName": "xxx",
+      "cycle": "only",
+      "showTrayCheckRes": "N",
+      "showTrayReCheck": "N",
+      "showTrayRepair": "N",
+      "showWinAuto": "Y",
+      "showWinFail": "Y",
+      "showWinSuccess": "N",
+      "notes": "xxx",
+      "refcnt": "10",
+      "createTime": "2022-04-26 01:22:12",
+      "updateTime": "2022-04-25 18:19:33"
+    }
+  ]
+}

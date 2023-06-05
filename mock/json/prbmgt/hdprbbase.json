@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "devName": "1433",
+  "addr": "192.168.134.1",
+  "mac": "22:22:22:22:22:22",
+  "serial": "1234567891313125416541341543541354",
+  "model": "qewrtyuiopp[pkjhgfdsd789452341235656",
+  "type": "computer",
+  "sysVersion": "v1.0",
+  "sysTM": "2023-2-2 13:12:23",
+  "onlineTM": "23天13时18分45秒",
+  "interfaces": ["eth0", "eth1", "eth2", "eth3", "eth4", "eth5"],
+  "cpu": "61",
+  "mem": "88"
+}

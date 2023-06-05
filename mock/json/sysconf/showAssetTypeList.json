@@ -1,0 +1,150 @@
+{
+	"success": true,
+	"total": 40,
+	"data": [
+		{
+			"id": 143,
+			"group": "用户设备",
+			"groupId": "1",
+			"name": "个人电脑",
+			"icon": "pc",
+			"count": 13,
+			"property": 1
+		},
+		{
+			"id": 1,
+			"group": "网络设备",
+			"groupId": "12",
+			"name": "未知",	
+			"icon": "gjbas",
+			"count": 10,
+			"property": 1
+		},
+		{
+			"id": 2,
+			"group": "服务器",
+			"groupId": "3",
+			"name": "存储服务器",	
+			"icon": "nas",
+			"count": 11,
+			"property": 1
+		},
+		{
+			"id": 3,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 21,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 22,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 23,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 31,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "移动端",	
+			"icon": "mobile",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 32,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 12,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 145,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 14,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 15,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 16,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 122,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		},
+		{
+			"id": 123,
+			"group": "哑终端",
+			"groupId": "14",
+			"name": "摄像头",	
+			"icon": "camera",
+			"count": 12,
+			"property": 0
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "ip": "172.18.16.5",
+      "mac": "70:BA:EF:0A:13:70",
+      "ipCnt": 1,
+      "devType": "未知终端",
+      "sysType": "未知系统",
+      "macVendor": "Hangzhou H3C Technologies Co.,Limited",
+      "macVendorAbbr": "H3C"
+    }
+  ]
+}

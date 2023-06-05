@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "id": "1",
+      "origin": "add/sync",
+      "status": "Y/N",
+      "name": "x",
+      "text": "x",
+      "kind": "x",
+      "kindName": "x",
+      "note": "x",
+      "zone": "xxx",
+      "orgID": 1,
+      "org": "北京市",
+      "gpOrgPath": "/全国/北京市",
+      "gpOrgIDPath": "0.1.2",
+      "expire": "Y/N",
+      "expireDate": "x",
+      "IDCard": "",
+      "phone": "",
+      "email": "",
+      "pwdlastset": "",
+      "loginType": "single",
+      "loginReplace": "Y/N",
+      "replaceConfirm": "Y/N",
+      "loginNums": 2,
+      "loginTime": "Y/N",
+      "timeAction": "deny/permit",
+      "begTime": "x",
+      "endTime": "x",
+      "duration": "Y/N",
+      "durationTime": "100",
+      "durationUnit": "hour"
+    }
+  ]
+}

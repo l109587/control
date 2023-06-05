@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "total": 26,
+  "data": [
+    {
+      "ifName": "FastEthernet1/0/1",
+      "ifIndex": 10001,
+      "ifStatus": "1",
+      "aclMode": "0"
+    },
+    {
+      "ifName": "FastEthernet1/0/2",
+      "ifIndex": 10002,
+      "ifStatus": "2",
+      "aclMode": "0"
+    }
+  ]
+}

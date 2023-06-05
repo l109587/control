@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "deviceID": "c612",
+  "company": "北信源",
+  "govcode": "1002020",
+  "location": "慧谷一期",
+  "contacts": [
+    {
+      "name": "小红",
+      "phone": "13931223234",
+      "email": "wangwu@vrvmail.com.cn",
+      "position": "处长"
+    },
+    {
+      "name": "小明",
+      "phone": "13931223234",
+      "email": "wangwu@vrvmail.com.cn",
+      "position": "厅长"
+    }
+  ]
+}

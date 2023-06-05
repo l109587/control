@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "macaddr": "AA-BB-CC-DD-EE-FF",
+    "ipaddr": "192.168.12.52",
+    "baseInfo": {
+      "user": "张三",
+      "phone": "15112345678",
+      "zone": "北京市",
+      "org": "派出所A1",
+      "assetType": "PC",
+      "assetModel": "fd-ddo",
+      "vlan": "12",
+      "location": "一楼",
+      "buisUsg": "PC"
+    },
+    "flowInfo": [
+      {
+        "admin": "xibeiwang",
+        "time": "2022-04-25 01:22:12",
+        "action": "submit",
+        "desc": "提交资产退网申请",
+        "result": "",
+        "notes": ""
+      },
+      {
+        "admin": "haidian",
+        "time": "2022-04-26 01:22:12",
+        "action": "approval",
+        "desc": "审批资产退网申请",
+        "result": "approved",
+        "notes": "同意"
+      }
+    ]
+  }
+}

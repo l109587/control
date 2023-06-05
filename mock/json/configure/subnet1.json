@@ -1,0 +1,33 @@
+{
+	"success": true,
+	"total": "2",
+	"data": [
+		{
+			"id": "1112",
+			"status": "",
+			"zone": "慧谷1期",
+			"orgID": "10",
+			"org": "北京研发中心",
+			"gpOrgPath": "/全部区域/北京分公司/慧谷1期/北京研发中心",
+			"gpOrgIDPath": "0.1.4.7.10",
+			"IPNetID": "6",
+			"IPNet": "20",
+			"subNetaddr": "192.168.64.12",
+			"maskSize": "24",
+			"subNetmask": "255.255.255.0",
+			"gatewayIP": "192.168.64.1",
+			"vlan": "64",
+			"buisUsg": "办公设备",
+			"location": "慧谷1期",
+			"cycle": "N",
+			"cycleTime": "",
+			"notes": "",
+			"createTime": "2022-07-18 11:14:37",
+			"updateTime": "2022-07-18 11:17:03",
+			"tolIPNum": 255,
+			"allocIPNum": "4",
+			"unallocIPNum": 253,
+			"reservedIPNum": 2
+		}
+	]
+}

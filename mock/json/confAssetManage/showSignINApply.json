@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "id": 1,
+      "orderState": "unprocessed",
+      "orderID": "ASxxx",
+      "zoneID": 1,
+      "zone": "北京市",
+      "fullZone": "北京市/海淀区",
+      "orgID": 1,
+      "org": "北京市",
+      "fullOrg": "北京市/海淀区",
+      "user": "zhangsan",
+      "phone": "15112345678",
+      "macaddr": "AA-BB-CC-DD-EE-FF",
+      "assetType": "PC",
+      "assetModel": "1508",
+      "buisUsg": "办公设备",
+      "location": "一楼",
+      "vlan": "12",
+      "notes": "备注",
+      "applicant": "申请人",
+      "approver": "审批人"
+    }
+  ]
+}

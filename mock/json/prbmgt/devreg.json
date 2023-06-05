@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "serial": "0200020001000001",
+  "name": "WIN-ZHANGSAN",
+  "registerAddr": "100.100.100.100",
+  "desc": "设备正常",
+  "registerStatus": "2",
+  "error": "枯桑知天风，海水知天寒。",
+  "connectStatus": "1"
+}

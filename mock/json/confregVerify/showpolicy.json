@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "total": "1",
+  "data": [
+    {
+      "id": 1,
+      "name": "xxx",
+      "regType": "1",
+      "verifyType": "2",
+      "notes": "xxx",
+      "dealType": "1",
+      "agentUrl": "https://1.1.1.1/cems",
+      "refcnt": "10"
+    },
+    {
+      "id": 12,
+      "name": "xxx",
+      "regType": "1",
+      "verifyType": "2",
+      "notes": "xxx",
+      "dealType": "1",
+      "agentUrl": "https://1.1.1.1/cems",
+      "refcnt": "10"
+    },
+    {
+      "id": 1123,
+      "name": "xxx",
+      "regType": "1",
+      "verifyType": "2",
+      "notes": "xxx",
+      "dealType": "1",
+      "agentUrl": "https://1.1.1.1/cems",
+      "refcnt": "10"
+    }
+  ]
+}

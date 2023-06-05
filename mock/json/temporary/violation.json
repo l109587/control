@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "rate": 1,
+    "outlineCfgName": "全局配置",
+    "violaService":["ftp","dns","dhcp","redis","proxy","vnc","rdp","hfs","SunLogin", "Todesk" , "TeamViewer" ],
+    "violaInline":["multiNic","ap","inNet" ],
+    "violaOutline":["inExtranet","documentLeak","moniterUrl"],
+    "timeRange": 5,
+    "difference": 1000,
+    "urlList": [
+        {
+            "id": 0,
+            "name": "test0",
+            "url": "192.168.1.1",
+            "jsNum": "24"
+        },
+        {
+            "id": 1,
+            "name": "test1",
+            "url": "192.168.1.2",
+            "jsNum": "24"
+        }
+    ]
+}

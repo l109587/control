@@ -1,0 +1,52 @@
+.spanMessage {
+  position: relative;
+  left: 37.5% !important;
+  top: -10px;
+  color: #999;
+  font-size: 12px;
+}
+.ant-radio-button-wrapper {
+  padding: 0 26px;
+}
+.spanopen {
+  position: absolute;
+  left: 45.5%;
+  top: 5.3%;
+  color: #999;
+  font-size: 12px;
+}
+.alertTitle {
+  margin: 0px 5% 0px 210px;
+}
+.fromContent {
+  width: 800px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+.timeLabel {
+  border: 1px solid #f3efefe8;
+  width: 42px;
+  height: 32px;
+  line-height: 29px;
+  text-align: center;
+  padding: 0;
+}
+.backgroundbox {
+  background-color: #FEFEFE;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  overflow-y: auto;
+}
+.tablelistbottom .ant-form-item {
+  margin: 0 !important;
+}
+.tablelistbottom .ant-table.ant-table-middle .ant-table-thead > tr > th,
+.tablelistbottom .ant-table.ant-table-middle .ant-table-tbody > tr > td {
+  padding: 6px 8px;
+}
+.fromContent .ant-form-item-control > div div:nth-child(2) {
+  margin-left: 0 !important;
+}
+.tablelistbottom .ant-space-align-center {
+  gap: 16px  !important;
+}

@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "title": "级联设备统计",
+    "data": [
+        {
+            "type": "register",
+            "name": "注册设备",
+            "value": "100"
+        },
+        {
+            "type": "verify",
+            "name": "待审设备",
+            "value": "0"
+        },
+        {
+            "type": "online_rate",
+            "name": "在线率",
+            "value": "30%"
+        },
+        {
+            "type": "online",
+            "name": "在线设备数",
+            "value": "1000"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "total": 2,
+  "data": [
+    {
+      "id": "1",
+      "state": "1",
+      "serial": "322333222",
+      "devName": "WIN-ZHANGSAN",
+      "ipAddr": "10.10.10.10",
+      "mac": "aa:bb:cc:dd:ee:ff",
+      "version": "v2.0.1",
+      "cpu": "20%",
+      "mem": "30%",
+      "vioInfo": ["vioSrv", "vioDev"],
+      "registerTM": "2022-07-07 12:00:03"
+    },
+    {
+      "id": "2",
+      "state": "0",
+      "serial": "322333222",
+      "devName": "WIN-ZHANGSAN",
+      "ipAddr": "10.10.10.12",
+      "mac": "aa:bb:cc:dd:ee:ff",
+      "version": "v2.0.1",
+      "cpu": "20%",
+      "mem": "30%",
+      "vioInfo": ["ckInOut", "vioSrv", "vioDev"],
+      "registerTM": "2022-07-07 12:00:03"
+    },
+    {
+      "id": "3",
+      "state": "1",
+      "serial": "322333222",
+      "devName": "WIN-ZHANGSAN",
+      "ipAddr": "10.10.10.14",
+      "mac": "aa:bb:cc:dd:ee:ff",
+      "version": "v2.0.1",
+      "cpu": "20%",
+      "mem": "30%",
+      "vioInfo": ["ckInOut", "vioSrv", "vioDev"],
+      "registerTM": "2022-07-07 12:00:03"
+    }
+  ]
+}

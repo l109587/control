@@ -1,0 +1,33 @@
+.textMessage {
+  position: relative;
+  left: 0.5%;
+  top: -10px;
+  color: #999;
+  font-size: 13px;
+  height: 8px;
+  line-height: 8px;
+}
+.seriform > .ant-row.ant-form-item {
+  margin-bottom: 0;
+}
+.seriform {
+  width: 1100px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+.crossedtable .ant-form-item {
+  margin: 0 !important;
+}
+.crossedtable .ant-table.ant-table-middle .ant-table-thead > tr > th,
+.crossedtable .ant-table.ant-table-middle .ant-table-tbody > tr > td {
+  padding: 6px 8px;
+}
+.crossedtable .ant-form-item-control > div div:nth-child(2) {
+  margin-left: 0 !important;
+}
+.crossedtable .ant-space-align-center {
+  gap: 16px !important;
+}
+.crossedtable .ant-empty-normal {
+  display: none;
+}

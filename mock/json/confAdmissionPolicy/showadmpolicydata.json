@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "devType": [
+    {
+      "label": "所有",
+      "value": "0"
+    },
+    {
+      "label": "个人电脑",
+      "value": "1"
+    },
+    {
+      "label": "网络摄像头",
+      "value": "2"
+    },
+    {
+      "label": "哑终端",
+      "value": "3"
+    }
+  ],
+  "sysType": [
+    {
+      "label": "所有",
+      "value": "0"
+    },
+    {
+      "label": "信创",
+      "value": "1"
+    },
+    {
+      "label": "Windows",
+      "value": "2"
+    },
+    {
+      "label": "Linux",
+      "value": "3"
+    }
+  ],
+  "verifylist": [
+    {
+      "value": "1",
+      "label": "xxx"
+    }
+  ]
+}

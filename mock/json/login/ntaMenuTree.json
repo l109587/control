@@ -1,0 +1,277 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "index",
+      "icon": "HomeOutlined",
+      "route": "/index/nta",
+      "zh": {
+        "name": "首页"
+      }
+    },
+
+    {
+      "name": "sysconf",
+      "icon": "AlertOutlined",
+      "route": "/index/nta",
+      "zh": {
+        "name": "系统监控"
+      },
+      "children": [
+        {
+          "name": "flowstat",
+          "route": "/monitor/flowstat",
+          "zh": {
+            "name": "流量统计"
+          }
+        },
+        {
+          "name": "panalyze",
+          "route": "/monitor/panalyze",
+          "zh": {
+            "name": "协议分析"
+          }
+        },
+        {
+          "name": "rlogstat",
+          "route": "/monitor/rlogstat",
+          "zh": {
+            "name": "日志统计"
+          }
+        },
+        {
+          "name": "devstate",
+          "route": "/monitor/devstate",
+          "zh": {
+            "name": "设备状态"
+          }
+        }
+      ]
+    },
+    {
+      "name": "mconfig",
+      "icon": "ProjectOutlined",
+      "route": "/index/nta",
+      "zh": {
+        "name": "监测配置"
+      },
+      "children": [
+        {
+          "name": "mirror",
+          "route": "/mconfig/mirror",
+          "zh": {
+            "name": "流量镜像"
+          }
+        },
+        {
+          "name": "report",
+          "route": "/mconfig/report",
+          "zh": {
+            "name": "日志上报"
+          }
+        }
+      ]
+    },
+    {
+			"name": "alarmdt",
+			"icon": "GlobalOutlined",
+			"route": "",
+			"zh": {
+				"name": "检测告警"
+			},
+			"children": [
+				{
+					"name": "transfer",
+					"route": "/alarmdt/transfer",
+					"zh": {
+						"name": "传输涉密告警"
+					}
+				},
+				{
+					"name": "attacker",
+					"route": "/alarmdt/attacker",
+					"zh": {
+						"name": "攻击窃密告警"
+					}
+				},
+				{
+					"name": "targetadt",
+					"route": "/alarmdt/targetadt",
+					"zh": {
+						"name": "目标审计告警"
+					}
+				},
+				{
+					"name": "unknown",
+					"route": "/alarmdt/unknown",
+					"zh": {
+						"name": "未知攻击告警"
+					}
+				}
+			]
+		},
+    {
+			"name": "netaudit",
+			"icon": "GlobalOutlined",
+			"route": "",
+			"zh": {
+				"name": "网络审计"
+			},
+			"children": [
+				{
+					"name": "connect",
+					"route": "/netaudit/connect",
+					"zh": {
+						"name": "网络联通审计"
+					}
+				},
+				{
+					"name": "webhttp",
+					"route": "/netaudit/webhttp",
+					"zh": {
+						"name": "WEB访问审计"
+					}
+				},
+				{
+					"name": "dnsreq",
+					"route": "/netaudit/dnsreq",
+					"zh": {
+						"name": "DNS请求审计"
+					}
+				},
+        {
+					"name": "email",
+					"route": "/netaudit/email",
+					"zh": {
+						"name": "电子邮件审计"
+					}
+				},
+				{
+					"name": "filetrans",
+					"route": "/netaudit/filetrans",
+					"zh": {
+						"name": "文件传输审计"
+					}
+				},
+				{
+					"name": "ssltls",
+					"route": "/netaudit/ssltls",
+					"zh": {
+						"name": "加密协议审计"
+					}
+				}
+			]
+		},
+    {
+        "name": "sysconf",
+        "icon": "SettingOutlined",
+        "route": "/index/nta",
+        "zh": {
+            "name": "系统配置"
+        },
+        "children": [
+            {
+                "name": "adminacc",
+                "route": "/sysconf/adminacc",
+                "zh": {
+                    "name": "管理员账号"
+                }
+            },
+            {
+                "name": "network",
+                "route": "/sysconf/network",
+                "zh": {
+                    "name": "网络设置"
+                }
+            },
+            {
+                "name": "systime",
+                "route": "/sysconf/systime",
+                "zh": {
+                    "name": "系统时间"
+                }
+            },
+            {
+                "name": "sysserv",
+                "route": "/sysconf/sysserv",
+                "zh": {
+                    "name": "系统服务"
+                }
+            },
+            {
+                "name": "apiauth",
+                "route": "/sysconf/apiauth",
+                "zh": {
+                    "name": "接口授权"
+                }
+            },
+            {
+                "name": "sysmenu",
+                "route": "/sysconf/sysmenu",
+                "zh": {
+                    "name": "菜单权限"
+                }
+            },
+            {
+                "name": "deployd",
+                "route": "/sysconf/deployd",
+                "zh": {
+                    "name": "部署配置"
+                }
+            }
+        ]
+    },
+    {
+      "name": "sysmain",
+      "icon": "ToolOutlined",
+      "route": "/index/nta",
+      "zh": {
+        "name": "系统维护"
+      },
+      "children": [
+        {
+          "name": "mtacfg",
+          "route": "/sysmain/mtacfg",
+          "zh": {
+            "name": "配置维护"
+          }
+        },
+        {
+          "name": "status",
+          "route": "/sysmain/status",
+          "zh": {
+            "name": "系统状态"
+          }
+        },
+        {
+          "name": "update",
+          "route": "/sysmain/update",
+          "zh": {
+            "name": "系统升级"
+          }
+        },
+        {
+          "name": "mtadat",
+          "route": "/sysmain/mtadat",
+          "zh": {
+            "name": "数据维护"
+          }
+        },
+        {
+          "name": "mtalog",
+          "route": "/sysmain/mtalog",
+          "zh": {
+            "name": "日志维护"
+          }
+        },
+        {
+          "name": "remote",
+          "route": "/sysmain/remote",
+          "zh": {
+            "name": "系统调试"
+          }
+        }
+      ]
+    }
+  ]
+}

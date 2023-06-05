@@ -1,0 +1,21 @@
+{
+	"success": true,
+	"nums": 3,
+	"data": [
+		{
+			"type": "flow",
+			"name": "流量日志",
+			"value": 3456
+		},
+		{
+			"type": "sess",
+			"name": "会话日志",
+			"value": 123
+		},
+		{
+			"type": "apps",
+			"name": "应用日志",
+			"value": 3456
+		}
+	]
+}

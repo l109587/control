@@ -1,0 +1,63 @@
+{
+	"success": true,
+	"title": "资产统计",
+	"data": [
+		{
+			"type": "用户",
+			"value": 26221,
+			"other": false
+		},
+		{
+			"type": "其他",
+			"value": 38875,
+			"other": true
+		},
+		{
+			"type": "网络",
+			"value": 28947,
+			"other": false
+		},
+		{
+			"type": "办公",
+			"value": 35133,
+			"other": false
+		},
+    {
+			"type": "服务",
+			"value": 24033,
+			"other": false
+		}
+	],
+	"list": [
+		{
+			"id": 0,
+			"type": "个人电脑",
+			"count": 50,
+			"num": 4000
+		},
+		{
+			"id": 1,
+			"type": "交换机",	
+			"count": 8,
+			"num": 9000
+		},
+		{
+			"id": 2,
+			"type": "存储服务器",	
+			"count": 6,
+			"num": 600
+		},
+		{
+			"id": 3,
+			"type": "摄像头",	
+			"count": 8,
+			"num": 4000
+		},
+		{
+			"id": 4,
+			"type": "身份认证",	
+			"count": 8,
+			"num": 500
+		}
+	]
+}

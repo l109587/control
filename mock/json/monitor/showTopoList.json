@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "name": "test1",
+      "swIp": "192.168.12.133",
+      "ifIndex": 1,
+      "swPort": "GigabitEthernet1/0/1",
+      "linkIp": "192.168.12.214",
+      "linkIfIndex": 7,
+      "linkPort": "GigabitEthernet0/0/2",
+      "flag": 2
+    }
+  ]
+}

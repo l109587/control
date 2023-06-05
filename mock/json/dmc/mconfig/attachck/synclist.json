@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": [
+    {
+      "select": "Y",
+      "devid": "220409012001",
+      "ip": "192.168.12.100",
+      "name": "4",
+      "isOnline": "0",
+      "division": "北京市-市辖区-海淀区",
+      "zoneName": "~~~~~~~~~~~"
+    },
+    {
+      "select": "N",
+      "devid": "121",
+      "ip": "192.168.12.111",
+      "name": "4",
+      "isOnline": "1",
+      "division": "北京市-市辖区-海淀区",
+      "zoneName": "~~~~~~~~~~~"
+    }
+  ]
+}

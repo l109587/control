@@ -1,0 +1,6 @@
+.treecard > .ant-pro-card-body {
+  overflow-y: auto;
+}
+.ant-tree-treenode {
+  align-items: center !important;
+}

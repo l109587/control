@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"total": 80,
+	"data": [
+		{
+			"id": 0,
+			"name": "个人电脑",
+			"icon": "PC",
+			"count": 50
+		},
+		{
+			"id": 1,
+			"name": "啦啦啦啦啦啦啦啦啦啦阿联",	
+			"icon": "SWITCH",
+			"count": 8
+		},
+		{
+			"id": 2,
+			"name": "存储服务器",	
+			"icon": "NAS",
+			"count": 6
+		},
+		{
+			"id": 3,
+			"name": "摄像头",	
+			"icon": "CAMERA",
+			"count": 8
+		},
+		{
+			"id": 4,
+			"name": "身份认证",	
+			"icon": "",
+			"count": 8
+		},
+		{
+			"id": 5,
+			"name": "虚拟化是嘛应用服务器",	
+			"icon": "APPSERVER",
+			"count": 8
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"success": true,
+	"title": "日志占比",
+	"subtitle": "最近1小时日志总量占比",
+	"data": [
+		{
+			"type": "dns",
+			"name": "DNS日志",
+			"totcnt": "188046"
+		},
+		{
+			"type": "file",
+			"name": "文件传输日志",
+			"totcnt": "265"
+		},
+		{
+			"type": "flow",
+			"name": "流量日志",
+			"totcnt": "188058"
+		},
+		{
+			"type": "http",
+			"name": "HTTP日志",
+			"totcnt": "45075"
+		}
+	]
+}

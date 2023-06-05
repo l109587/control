@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "title": "级联状态",
+  "data": [
+    {
+      "type": "total",
+      "name": "",
+      "value": 8
+    },
+    {
+      "type": "connect",
+      "name": "正常",
+      "value": 5
+    },
+    {
+      "type": "disconnect",
+      "name": "断开",
+      "value": 8
+    },
+    {
+      "type": "waitverify",
+      "name": "待审核",
+      "value": 8
+    }
+  ]
+}

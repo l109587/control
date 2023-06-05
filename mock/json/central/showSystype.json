@@ -1,0 +1,14 @@
+{
+	"success":true,
+	"total":"2",
+	"data":[
+		{
+			"id":0,
+			"text":"未知系统"
+		},
+		{
+			"id":2,
+			"text":"Windows"
+		}
+	]
+}

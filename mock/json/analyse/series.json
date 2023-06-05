@@ -1,0 +1,30 @@
+{
+	"success": true,
+	"total": 2,
+	"data": [
+		{
+			"id": "0",
+			"online": 1,
+			"net": "10.0.0.8",
+			"devIP": "192.168.12.12",
+			"devMac": "aa:bb:cc:dd:ee:ff",
+			"vendor": "TP-LINK",
+			"type": "探针监测",
+			"cnt": 3,
+			"firstTM": "2022-07-07 12:00:03",
+			"lastTM": "2022-07-07 12:00:03"
+		},
+		{
+			"id": "4",
+			"online": 1,
+			"net": "172.16.0.8",
+			"devIP": "192.168.21.12",
+			"devMac": "aa:bb:cc:dd:ee:ff",
+			"vendor": "D-LINK",
+			"type": "网关监测",
+			"cnt": 5,
+			"firstTM": "2022-07-07 12:00:03",
+			"lastTM": "2022-08-09 22:00:03"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"success": true,
+	"total": 3,
+	"data": [
+		{
+			"filterName": "type",
+			"count": 2,
+			"info": [
+				{
+					"id": 0,
+					"text": "网关监测"
+				},
+				{
+					"id": 1,
+					"text": "探针监测"
+				}
+			]
+		},
+		{
+			"filterName": "online",
+			"count": 2,
+			"info": [
+				{
+					"id": 0,
+					"text": "在线"
+				},
+				{
+					"id": 1,
+					"text": "离线"
+				}
+			]
+		},
+		{
+			"filterName": "vendor",
+			"count": 2,
+			"info": [
+				{
+					"id": 0,
+					"text": "D-LINK"
+				},
+				{
+					"id": 1,
+					"text": "TP-LINK"
+				}
+			]
+		}
+	]
+}

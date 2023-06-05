@@ -1,0 +1,20 @@
+{
+	"success": true,
+	"switch": "Y",
+	"interfaceName": "mgt",
+    "outlineCfgName": "全局配置",
+    "moniterScope":[
+            {
+                "id": 0,
+                "vlan": "1024",
+                "addr": "192.168.1.1",
+                "netmask": "24"
+            },
+            {
+                "id": 1,
+                "vlan": "1024",	
+                "addr": "192.168.1.2",
+                "netmask": "24"
+            }
+        ]
+}

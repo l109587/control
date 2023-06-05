@@ -1,0 +1,300 @@
+{
+    "success": true,
+    "total": "3",
+    "data": [
+        {
+            "id": "4",
+            "state": "online",
+            "sid": "2571519696",
+            "devName": "VRVBJYWH",
+            "addr": "192.168.134.155",
+            "mac": "00:50:56:86:56:3C",
+            "os": "Windows Server 2012 R2",
+            "version": "v1.0.15",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-20 16:41:23"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        },
+        {
+            "id": "2",
+            "state": "offline",
+            "sid": "1202023438",
+            "devName": "LAPTOP-DM6GCLOP",
+            "addr": "192.168.134.229",
+            "mac": "8C:16:45:E3:4F:CC",
+            "os": "Windows10",
+            "version": "v1.0.15",
+            "conf": [
+                "vioSrv", "IPV6AssetRpt"
+            ],
+            "registTM": "2022-09-13 17:23:35"
+        },
+        {
+            "id": "1",
+            "state": "online",
+            "sid": "4086445976",
+            "devName": "PC-20211031KFOM",
+            "addr": "192.168.134.150",
+            "mac": "C8:5B:76:4D:5A:25",
+            "os": "Windows10",
+            "version": "v3.0.96",
+            "conf": [
+                "ckInOut", "vioSrv", "vioDev"
+            ],
+            "registTM": "2022-08-25 17:06:14"
+        }
+    ]
+}
